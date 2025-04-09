@@ -1,0 +1,50 @@
+BanditParties_SpawnTime~Invalid value for control~36.000000~
+Cattle_MoveSpeed~Tweak not supported~Original Mount & Blade only~
+Cattle_PathFindingSkill~Tweak not supported~Original Mount & Blade only~
+Cattle_RidingSkill~Tweak not supported~Original Mount & Blade only~
+EscapeRates_CheckInterval~Invalid value for control~48.000000~
+Food_EatingInterval~Invalid value for control~14.000000~
+Improvements_SchoolRelationGainInterval~Invalid value for control~720.000000~
+ImprovementsWFS_AcademyBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_AcademyCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_ArmoryBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_ArmoryCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_BarracksBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_BarracksCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_CouncilHouseBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_CouncilHouseCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_FortificationsBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_FortificationsCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_HiddenTreasuryBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_HiddenTreasuryCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_MerchantGuildBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_MerchantGuildCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_MillBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_MillCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_SafeHouseBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_SafeHouseCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_SchoolBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_SchoolCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_StableBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_StableCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_StorehouseBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_StorehouseCost~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_WaterSupplyBuildTime~Tweak not supported~With Fire & Sword only~
+ImprovementsWFS_WaterSupplyCost~Tweak not supported~With Fire & Sword only~
+PartySize_BasePartySizeAverage~Tweak not supported~With Fire & Sword only~
+PartySize_BasePartySizeGood~Tweak not supported~With Fire & Sword only~
+PartySize_BasePartySizePoor~Tweak not supported~With Fire & Sword only~
+PartySize_PayTroopsTimer~Invalid value for control~168.000000~
+PartySize_RenownPerTroopAverage~Tweak not supported~With Fire & Sword only~
+PartySize_RenownPerTroopGood~Tweak not supported~With Fire & Sword only~
+PartySize_RenownPerTroopPoor~Tweak not supported~With Fire & Sword only~
+PartySize_SizePerLeadershipAverage~Tweak not supported~With Fire & Sword only~
+PartySize_SizePerLeadershipGood~Tweak not supported~With Fire & Sword only~
+PartySize_SizePerLeadershipPoor~Tweak not supported~With Fire & Sword only~
+Prisoners_PrisonerLordRansomTimer~Invalid value for control~24.000000~
+Prisoners_PrisonerSellValue~Tweak not supported~Original Mount & Blade only~
+Prosperity_CaravanCheck1~Tweak not supported~Tweak not available in selected tweak profile~
+Prosperity_CaravanCheck2~Tweak not supported~Tweak not available in selected tweak profile~
+Prosperity_LossUnderSiege~Tweak not supported~Tweak not available in selected tweak profile~
+QuestsLord_DealWithBanditsAtVillage~Tweak not supported~Tweak not available in selected tweak profile~
+QuestsLord_DeliverMessageEnemyLord~Tweak not supported~Tweak not available in selected tweak profile~

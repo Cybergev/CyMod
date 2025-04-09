@@ -1,0 +1,1055 @@
+material 526
+background_stonewall 201326592 simple_shader wall3 none none none none 1.0
+0.0 0.0 0.0
+background_stone 201326592 simple_shader stone none none none none 1.0
+0.0 0.0 0.0
+background_stone_indoors 201326592 tex_mul_color stone none none none none 1.0
+0.0 0.0 0.0
+prt_shd_rain_mud_1 117440776 soft_particle_modulate prt_text_rain_mud_1 none none none none 1.0
+0.0 0.0 0.0
+prt_shd_water_wave_1 117440776 soft_particle_modulate prt_text_water_wave_01 none none none none 1.0
+0.0 0.0 0.0
+prt_shd_smoke_1 100663560 soft_particle_modulate prt_text_smoke_1.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_snow_dust_1 100663560 soft_particle_modulate prt_text_snow_dust_1.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_snow_fall_1 100663560 soft_particle_modulate prt_text_snow_fall_1.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_steam_1 100663817 soft_particle_add prt_text_steam_1.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_blood_3 50331976 soft_particle_modulate prt_text_blood_3.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_blood_1 50331976 soft_particle_modulate prt_text_blood_1.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_straw_1 0 soft_particle_modulate prt_text_straw_1.dds none none none none 1.0
+0.0 0.0 0.0
+particle_blend 100663560 soft_particle_modulate particles none none none none 1.0
+0.0 0.0 0.0
+particle_add 100663817 soft_particle_add particles none none none none 1.0
+0.0 0.0 0.0
+prt_shd_sparks 100663817 soft_particle_add prt_text_sparks_1.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_dust_1 100663560 soft_particle_modulate prt_text_dust_1.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_fire_1 100663817 soft_particle_add prt_text_fire_1.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_fire_2 100663817 soft_particle_add prt_text_fire_2.dds none none none none 1.0
+0.0 0.0 0.0
+prt_shd_fire_3 100663817 soft_particle_add prt_text_fire_3.dds none none none none 1.0
+0.0 0.0 0.0
+sun_core 100663817 no_shade particles none none none none 1.0
+0.0 0.0 0.0
+particle_solid 0 tex_mul_color particles none none none none 1.0
+0.0 0.0 0.0
+prt_shd_rose_a 50340160 no_shade prt_rose_a.dds none none none none 1.0
+0.0 0.0 0.0
+flare 117441049 soft_sunflare particles none none none none 1.0
+0.0 0.0 0.0
+sun 150995481 no_shade particles none none none none 1.0
+0.0 0.0 0.0
+agent_name 100663561 font_uniform_color font none none none none 1.0
+0.0 0.0 0.0
+map_legend 100663560 font_uniform_color font none none none none 1.0
+0.0 0.0 0.0
+map_legend_outline 100663560 font_outline font none none none none 1.0
+0.0 0.0 0.0
+map_track 16785408 tex_mul_color_alpha map_misc none none none none 1.0
+0.0 0.0 0.0
+map_misc 16777472 tex_mul_color_mul_factor_alpha map_misc none none none none 1.0
+0.0 0.0 0.0
+map_icons 16777472 tex_mul_color_mul_factor_alpha map_icons none none none none 1.0
+0.0 0.0 0.0
+mp_flag_project 257 tex_mul_color_mul_factor_alpha banners_kingdoms none none none none 1.0
+0.0 0.0 0.0
+map_icons_b 16777472 tex_mul_color_mul_factor_alpha map_icons_b none none none none 1.0
+0.0 0.0 0.0
+map_icons_c 16777472 tex_mul_color_mul_factor_alpha map_icons_c none none none none 1.0
+0.0 0.0 0.0
+map_trees 33562688 flora_shader_nobias_nopreshade trees none none none none 1.0
+0.0 0.0 0.0
+map_ocean 256 map_ocean_shader_high ocean none waterbump none none 1.0
+0.0 0.0 0.0
+map_river 256 map_ocean_shader_high ocean none waterbump none none 1.0
+0.0 0.0 0.0
+map_bridge 256 map_ocean_shader_high ocean none waterbump none none 1.0
+0.0 0.0 0.0
+map_foam 256 map_ocean_shader_high foam none waterbump none none 1.0
+0.0 0.0 0.0
+sea_foam 264 tex_mul_color_alpha foam none waterbump none none 1.0
+0.0 0.0 0.0
+map_reverse_foam 264 map_ocean_shader_high reverse_foam none waterbump none none 1.0
+0.0 0.0 0.0
+map_shore 256 map_shader_bump desert none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+map_stone 256 tex_mul_color_alpha mountain none none none none 1.0
+0.0 0.0 0.0
+map_lair 0 tex_mul_color_alpha mountain none none none none 1.0
+0.0 0.0 0.0
+map_mountain 256 map_mountain_shader_bump mountain none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+map_mountain_forest 256 map_mountain_shader_bump map_steppe none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+map_plain 256 map_shader_bump plain none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+map_desert 256 map_shader_bump desert none desert_bump none none 1.0
+0.0 0.0 0.0
+map_steppe 256 map_shader_bump map_steppe none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+map_snow 256 map_shader_bump snow none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+water_river 83886348 water_shader_high ocean none waterbump none none 10.000000
+3.000000 3.000000 3.000000
+water_for_objects 83886336 water_shader_for_objects ocean none none earthenvmap waterbump 10.000000
+3.000000 3.000000 3.000000
+river 83886348 water_shader_high river none waterbump none none 10.000000
+3.000000 3.000000 3.000000
+river_mud 83886348 water_shader_mud_high ocean none waterbump none none 10.000000
+3.000000 3.000000 3.000000
+stone_a 134217984 dot3_alpha rock_b none rock_b_normalmap none none 1.0
+0.0 0.0 0.0
+patch_rock 134217984 dot3_alpha rock_c none rock_c_normalmap none none 1.0
+0.0 0.0 0.0
+ground_earth 184549632 dot3_alpha ground_earth none ground_earth_bump none none 1.0
+0.0 0.0 0.0
+ground_desert 184549632 dot3_alpha desert none desert_bump none none 1.0
+0.0 0.0 0.0
+ground_forest 184549632 dot3_alpha ground_forest none ground_earth_bump none none 1.0
+0.0 0.0 0.0
+grassy_ground 184549632 dot3_alpha ground1 none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+town_grass 184549632 dot3_alpha ground1 none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+pebbles 201326848 standart_shader_bump_nospec_high_noterraincolor pebbles none pebbles_normal none none 1.0
+0.0 0.0 0.0
+ground_village 184549632 dot3_alpha ground_village none ground_village_bump none none 1.0
+0.0 0.0 0.0
+ground_path 184549632 dot3_alpha ground_path none ground_path_bump none none 1.0
+0.0 0.0 0.0
+meet_ground_path 50331904 dot3_alpha ground_path none ground_path_bump none none 1.0
+0.0 0.0 0.0
+sand 201326848 tex_mul_color_alpha ground1 none none none none 1.0
+0.0 0.0 0.0
+ground_steppe 184549632 dot3_alpha dry_grass none dry_grass_bump none none 1.0
+0.0 0.0 0.0
+snow 184549632 dot3_alpha snow none snow_bump none none 1.0
+0.0 0.0 0.0
+ground_earth_under_grass 184549632 dot3_alpha_multitex ground_earth ground1 ground1_bump none none 1.0
+0.0 0.0 0.0
+ground_earth_under_steppe 184549632 dot3_alpha_multitex ground_earth dry_grass ground_earth_bump none none 1.0
+0.0 0.0 0.0
+ground_forest_under_grass 184549632 dot3_alpha_multitex ground_forest ground1 ground1_bump none none 1.0
+0.0 0.0 0.0
+trees 134227780 flora_shader trees none none none none 1.0
+0.0 0.0 0.0
+desert_trees 134227780 flora_shader desert_trees none none none none 1.0
+0.0 0.0 0.0
+grape 134225988 flora_shader grape none none none none 1.0
+0.0 0.0 0.0
+wheat 134225988 flora_shader_nobias wheat none none none none 1.0
+0.0 0.0 0.0
+bushes 134225988 flora_shader_nobias bushes none none none none 1.0
+0.0 0.0 0.0
+bushes_b 134225988 flora_shader_nobias bushes_b none none none none 1.0
+0.0 0.0 0.0
+bush_a 134225988 flora_shader_nobias bush_a none none none none 1.0
+0.0 0.0 0.0
+bush_b 134225988 flora_shader_nobias bush_b none none none none 1.0
+0.0 0.0 0.0
+bush_c 134225988 flora_shader_nobias bush_c none none none none 1.0
+0.0 0.0 0.0
+tree_a 134227780 flora_shader tree_a none none none none 1.0
+0.0 0.0 0.0
+tree_b 134227780 flora_shader tree_b none none none none 1.0
+0.0 0.0 0.0
+tree_c 134227780 flora_shader tree_c none none none none 1.0
+0.0 0.0 0.0
+tree_e 134227780 flora_shader tree_e none none none none 1.0
+0.0 0.0 0.0
+palm_tree 134227780 flora_shader palm_tree none none none none 1.0
+0.0 0.0 0.0
+tree_new_a 134227780 flora_shader tree_new_a none none none none 1.0
+0.0 0.0 0.0
+tree_new_b 134227780 flora_shader tree_new_b none none none none 1.0
+0.0 0.0 0.0
+tree_new_c 134227780 flora_shader tree_new_c none none none none 1.0
+0.0 0.0 0.0
+tree_f 134227780 flora_shader tree_f none none none none 1.0
+0.0 0.0 0.0
+trees2 134225988 flora_shader trees2 none none none none 1.0
+0.0 0.0 0.0
+bark 184549632 dot3_alpha_biased bark none bark_normalmap none none 1.0
+0.0 0.0 0.0
+roof_a 184549632 dot3_alpha_biased roof_a none roof_a_n none none 1.0
+0.0 0.0 0.0
+bark_b 184549632 dot3_alpha_biased bark_b none bark_b_normalmap none none 1.0
+0.0 0.0 0.0
+bark_c 184549632 dot3_alpha_biased bark_c none bark_c_normalmap none none 1.0
+0.0 0.0 0.0
+bark_c_snowy 184549632 dot3_alpha_biased bark_c_snowy none bark_c_normalmap none none 1.0
+0.0 0.0 0.0
+bark_palm 184549632 dot3_alpha_biased bark_palm none bark_palm_n none none 1.0
+0.0 0.0 0.0
+grass 67113284 grass_shader grass grass_mask none none none 1.0
+0.0 0.0 0.0
+grass_no_shadow 67113280 grass_no_shadow_shader grass grass_mask none none none 1.0
+0.0 0.0 0.0
+skybox_cloud_1 151191576 skybox_shader_new skybox_cloud_1 skybox_cloud_1_rgb none skybox_cloud_1_exp none 1.000000
+13.266300 -2.720000 0.000000
+skybox_cloud_2 151191576 skybox_shader_new skybox_cloud_2 skybox_cloud_2_rgb none skybox_cloud_2_exp none 1.000000
+12.246500 -5.270000 0.000000
+skybox_sunset_1 151191576 skybox_shader_new skybox_sunset_1 skybox_sunset_1_rgb none skybox_sunset_1_exp none 1.000000
+16.567100 -3.160000 0.000000
+skybox_night_1 151191576 skybox_shader skybox_night_1 none none none none 1.0
+0.0 0.0 0.0
+skybox_night_2 151191576 skybox_shader skybox_night_2 none none none none 1.0
+0.0 0.0 0.0
+skybox_clearday 151191576 skybox_shader_new skybox_clearday skybox_clearday_rgb none skybox_clearday_exp none 1.000000
+14.971800 -2.292600 0.000000
+wall3 134217728 tex_mul_color_static wall3 none none none none 1.0
+0.0 0.0 0.0
+wall4 134217728 bump_static wall4 none wall4_height none none 1.0
+0.0 0.0 0.0
+wall4_interior 134217728 bumpmap_interior wall4 none wall4_height none none 1.0
+0.0 0.0 0.0
+wall5 134217728 bump_static wall5 none wall5_height none none 1.0
+0.0 0.0 0.0
+wall5_interior 134217728 bumpmap_interior wall5 none wall5_height none none 1.0
+0.0 0.0 0.0
+stone_wall_8_interior 134217728 bumpmap_interior stone_wall_8 none stone_wall_8_height none none 1.0
+0.0 0.0 0.0
+stone_wall_9_interior 134217728 bumpmap_interior stone_wall_9 none stone_wall_9_height none none 1.0
+0.0 0.0 0.0
+floor_1 134217728 standart_shader_bump_nospec_high_noterraincolor floor_1 none floor_1_height none none 1.0
+0.0 0.0 0.0
+floor_1_interior 134217728 standart_shader_bump_nospec_high_noterraincolor floor_1 none floor_1_height none floor_1_s 16.000000
+4.000000 4.000000 4.000000
+stucco_6_interior 50331904 bumpmap_interior_new stucco_6 none stucco_6_n none none 1.0
+0.0 0.0 0.0
+building_details_7_interior 134217984 bumpmap_interior_new building_details_7 none building_details_7_n none none 1.0
+0.0 0.0 0.0
+brickwall 134217728 tex_mul_color_static brick_wall none none none none 1.0
+0.0 0.0 0.0
+ground_stone1 134217728 tex_mul_color_static ground_stone1 none none none none 1.0
+0.0 0.0 0.0
+wood 134217728 tex_mul_color_static planks none none none none 1.0
+0.0 0.0 0.0
+roof 134217728 tex_mul_color_static roof_plates none none none none 1.0
+0.0 0.0 0.0
+roof_normal 134217728 standart_shader_bump_nospec_high_noterraincolor roof_plates_new none roof_plates_height none none 1.0
+0.0 0.0 0.0
+thatched 134217728 tex_mul_color_static roof_plates none none none none 1.0
+0.0 0.0 0.0
+planks 134217728 standart_shader_bump_nospec_high_noterraincolor planks none planks_height none none 1.0
+0.0 0.0 0.0
+player_chest 134217984 dot3_alpha player_chest none player_chest_normal none none 1.0
+0.0 0.0 0.0
+planks_interior 134217728 bumpmap_interior_new planks none planks_height none none 1.0
+0.0 0.0 0.0
+planks_dynamic 134217728 tex_mul_color planks none none none none 1.0
+0.0 0.0 0.0
+stucci_krem 402653184 tex_mul_color_static stucco_2 none none none none 1.0
+0.0 0.0 0.0
+hair_blonde 10112 hair_shader_aniso hair_blonde gray none none none 1.0
+0.0 0.0 0.0
+beard_blonde 67637632 hair_shader hair_blonde gray none none none 1.0
+0.0 0.0 0.0
+skin 1792 faceshader_high_specular man_body8 man_body8 body_normalmap none body_normalmap 30.000000
+0.150000 0.110000 0.090000
+undead_body 1792 skin_shader undeadbody none none none none 1.000000
+0.000000 0.000000 0.000000
+sumpter_horse_lod 17039616 agent_shader sumpter_horse none none none none 1.0
+0.0 0.0 0.0
+saddle_horse_lod 17039616 agent_shader saddle_horse none none none none 1.0
+0.0 0.0 0.0
+steppe_horse_lod 17039616 agent_shader steppe_horse none none none none 1.0
+0.0 0.0 0.0
+courser_lod 17039616 agent_shader courser none none none none 1.0
+0.0 0.0 0.0
+arabian_horse_a 1824 nospecular_shader_skin_bump_high_aniso arabian_horse_a manface_young arabian_horse_a_n none none 1.000000
+0.000000 0.000000 0.000000
+arabian_horse_b 1824 nospecular_shader_skin_bump_high_aniso arabian_horse_b manface_young arabian_horse_a_n none none 1.000000
+0.000000 0.000000 0.000000
+war_horse_lod 17039616 iron_shader_skin war_horse none none none none 12.000000
+1.000000 1.000000 1.000000
+charger_lod 17039616 iron_shader_skin charger none none none none 12.000000
+1.000000 1.000000 1.000000
+horse_a.lod 262400 agent_shader horse_a none none none none 1.0
+0.0 0.0 0.0
+horse_b.lod 262400 agent_shader horse_b none none none none 1.0
+0.0 0.0 0.0
+raw_materials 1824 specular_shader_noskin_bump_high raw_materials none raw_materials_normalmap none raw_materials_specular 16.000000
+0.000000 0.000000 0.000000
+pork 1824 specular_shader_noskin_bump_high raw_materials none raw_materials_normalmap none raw_materials_specular 39.000000
+66.000000 53.000000 18.000000
+chicken 1824 specular_shader_noskin_bump_high raw_materials none raw_materials_normalmap none raw_materials_specular 62.000000
+25.000000 8.000000 0.000000
+olive_plane 1824 specular_shader_noskin_bump_high raw_materials none raw_materials_normalmap none raw_materials_specular 31.000000
+66.000000 125.000000 117.000000
+grape_plane 1824 specular_shader_noskin_bump_high raw_materials none raw_materials_normalmap none raw_materials_specular 27.000000
+4.000000 0.000000 4.000000
+leatherworks 1824 specular_shader_noskin_bump_high raw_materials none raw_materials_normalmap none raw_materials_specular 10.000000
+6.000000 4.000000 2.000000
+date_plane 1824 specular_shader_noskin_bump_high raw_materials none raw_materials_normalmap none raw_materials_specular 16.000000
+23.000000 23.000000 21.000000
+flax 8224 specular_shader_noskin_bump_high raw_materials none raw_materials_normalmap none raw_materials_specular 8.000000
+228.000000 212.000000 93.000000
+costumes1 1824 iron_shader_Instanced costumes1 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes1_skin 1824 iron_shader_skin costumes1 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes2_skin 1792 skeleton_shader costumes2 none none none none 1.0
+0.0 0.0 0.0
+costumes3 1792 agent_shader_Instanced costumes3 none none none none 1.0
+0.0 0.0 0.0
+costumes3_skin 1792 skeleton_shader costumes3 none none none none 1.0
+0.0 0.0 0.0
+costumes4 1824 iron_shader_Instanced costumes4 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes4_skin 1824 iron_shader_skin costumes4 none none none none 16.000000
+5.000000 5.000000 5.000000
+costumes5 1824 iron_shader_Instanced costumes5 none none none none 16.000000
+8.000000 8.000000 8.000000
+costumes5_skin 1824 iron_shader_skin costumes5 none none none none 16.000000
+5.000000 5.000000 5.000000
+costumes6 1824 iron_shader_Instanced costumes6 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes6_skin 1824 iron_shader_skin costumes6 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes7_skin 1792 skeleton_shader costumes7 none none none none 1.0
+0.0 0.0 0.0
+costumes8 1824 iron_shader_Instanced costumes8 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes8_skin 1824 iron_shader_skin costumes8 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes9 1792 iron_shader_Instanced costumes9 none none none none 1.0
+0.0 0.0 0.0
+costumes9_skin 1824 iron_shader_skin costumes9 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes10 1792 agent_shader_Instanced costumes10 none none none none 1.0
+0.0 0.0 0.0
+costumes10_skin 1792 skeleton_shader costumes10 none none none none 1.0
+0.0 0.0 0.0
+costumes11 1792 agent_shader_Instanced costumes11 none none none none 1.0
+0.0 0.0 0.0
+costumes11_skin 1792 skeleton_shader costumes11 none none none none 1.0
+0.0 0.0 0.0
+costumes12_skin 1824 iron_shader_skin costumes12 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes13_skin 1824 iron_shader_skin costumes13 none none none none 16.000000
+4.000000 4.000000 4.000000
+costumes_lod 262400 agent_shader costumes_lod none none none none 1.0
+0.0 0.0 0.0
+fur_coat.lod 1792 agent_shader_Instanced fur_coat none none none none 1.0
+0.0 0.0 0.0
+lamellar_leather.lod 1792 agent_shader_Instanced lamellar_leather none none none none 1.0
+0.0 0.0 0.0
+lamellar_armor_b.lod 262432 specular_shader lamellar_armor_b none none none lamellar_armor_b_specular 16.000000
+10.000000 10.000000 10.000000
+helmets 1824 iron_shader_Instanced helmets_all none none none none 16.000000
+9.000000 9.000000 9.000000
+helmets_new_a 1824 specular_shader_noskin_bump_high helmets_new_a none helmets_new_a_normalmap none helmets_new_a_specular 16.000000
+10.000000 10.000000 10.000000
+nordic_helmets 1824 specular_shader_noskin_bump_high nordic_helmets_Diff none nordic_helmets_Bump none nordic_helmets_Spec 16.000000
+8.000000 8.000000 8.000000
+helmets_new_b 1824 standart_shader_bump_nospec_high_Instanced helmets_new_b none helmets_new_b_normalmap none none 16.000000
+3.000000 3.000000 3.000000
+helmets_new_c 1824 specular_shader_noskin_bump_high helmets_new_c none helmets_new_c_normalmap none helmets_new_c_specular 16.000000
+10.000000 10.000000 10.000000
+helmets_new_d 1824 standart_shader_bump_nospec_high_Instanced helmets_new_d none helmets_new_d_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+helmets_new_e 1824 standart_shader_bump_nospec_high_Instanced helmets_new_e none helmets_new_e_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+helmets_new_f 1824 specular_shader_noskin_bump_high_Instanced helmets_new_f none helmets_new_f_normalmap none helmets_new_f_specular 16.000000
+10.000000 10.000000 10.000000
+helmets_new_g 1824 specular_shader_noskin_bump_high_Instanced helmets_new_g none helmets_new_g_normalmap none helmets_new_g_specular 16.000000
+10.000000 10.000000 10.000000
+helmets_new_h 1824 specular_shader_noskin_bump_high_Instanced helmets_new_h none helmets_new_h_normalmap none helmets_new_h_specular 16.000000
+10.000000 10.000000 10.000000
+helmets_b 1824 specular_shader_noskin_bump_high_Instanced helmets none helmets_normalmap none helmets_specular 16.000000
+10.000000 10.000000 10.000000
+helmets_d 1824 agent_shader_Instanced helmets_d none none none none 16.000000
+4.000000 4.000000 4.000000
+arena_helmets.lod 1824 iron_shader_Instanced arena_helmets none none none none 16.000000
+7.000000 7.000000 7.000000
+steel 1824 specular_shader_Instanced weapons1 none none earthenvmap none 18.000000
+50.000000 50.000000 50.000000
+steel_medium 1824 specular_shader_Instanced weapons1 none none envmap_medium none 18.000000
+37.500000 37.500000 37.500000
+arena_shields 134217728 tex_mul_color_static arena_shields none none none none 1.0
+0.0 0.0 0.0
+weapons1 83887904 specular_shader_Instanced weapons1 none none none weapons1_specular 25.000000
+50.000000 50.000000 50.000000
+weapons1.lod 524576 specular_shader weapons1 none none none weapons1_specular 25.000000
+50.000000 50.000000 50.000000
+weapons2 83887904 envmap_shader_Instanced weapons2 none none earthenvmap weapons2_specular 30.000000
+50.000000 50.000000 50.000000
+weapons2.lod 84412192 envmap_shader weapons2 none none earthenvmap weapons2_specular 30.000000
+50.000000 50.000000 50.000000
+weapons2_axe 1824 specular_shader_Instanced weapons2 none none none weapons2_specular 15.000000
+50.000000 50.000000 50.000000
+weapons2_axe.lod 526112 specular_shader weapons2 none none none weapons2_specular 15.000000
+50.000000 50.000000 50.000000
+weapons3 83887904 envmap_shader_Instanced weapons3 none weapons3_normalmap earthenvmap weapons3_specular 30.000000
+50.000000 50.000000 50.000000
+weapons3_axe 1824 specular_shader_Instanced weapons3 none none none weapons3_specular 15.000000
+50.000000 50.000000 50.000000
+weapons3_axe.lod 526112 specular_shader weapons3 none none none weapons3_specular 15.000000
+125.000000 125.000000 125.000000
+shields 1792 agent_shader_Instanced shields none none none none 25.000000
+18.750000 18.750000 18.750000
+shields.lod 524544 agent_shader shields none none none none 25.000000
+18.750000 18.750000 18.750000
+shields_b 1824 iron_shader_Instanced shields_b none none earthenvmap none 25.000000
+18.750000 18.750000 18.750000
+shields_b.lod 524544 iron_shader shields_b none none none none 25.000000
+16.250000 16.250000 16.250000
+missiles 50339872 specular_shader_noskin_bump_high_Instanced missiles none missiles_normalmap none missiles_specular 16.000000
+10.000000 10.000000 10.000000
+missiles.lod 524576 agent_shader missiles none none none none 25.000000
+6.500000 6.500000 6.500000
+mater 0 def_shader undeadbody none none none none 1.0
+0.0 0.0 0.0
+objects 0 agent_shader_Instanced objects none none none none 1.000000
+0.000000 0.000000 0.000000
+stucco_1 134217728 tex_mul_color_static stucco_2 none none none none 1.0
+0.0 0.0 0.0
+stucco_2 134217728 bump_static stucco_2 none stucco_2_height none none 1.0
+0.0 0.0 0.0
+stucco_2_interior 134217728 bumpmap_interior stucco_2 none stucco_2_height none none 1.0
+0.0 0.0 0.0
+stucco_3 134217728 tex_mul_color_static stucco_4 none none none none 1.0
+0.0 0.0 0.0
+stucco_4 134217728 bump_static stucco_4 none stucco_4_height none none 1.0
+0.0 0.0 0.0
+stucco_4_interior 134217728 bumpmap_interior stucco_4 none stucco_4_height none none 1.0
+0.0 0.0 0.0
+planks_1 134217728 standart_shader_bump_nospec_high_noterraincolor planks none planks_height none none 1.0
+0.0 0.0 0.0
+planks_1_interior 134217728 bumpmap_interior_new planks none planks_height none none 1.0
+0.0 0.0 0.0
+planks_2 134217728 bump_static planks_2 none planks_2_height none none 1.0
+0.0 0.0 0.0
+planks_2_interior 134217728 bumpmap_interior planks_2 none planks_2_height none none 1.0
+0.0 0.0 0.0
+planks_3 134217728 tex_mul_color_static planks_3 none none none none 1.0
+0.0 0.0 0.0
+planks_3_snowy 134217728 tex_mul_color_static planks_3_snowy none none none none 1.0
+0.0 0.0 0.0
+planks_4 134217728 bump_static planks_4 none planks_4_height none none 1.0
+0.0 0.0 0.0
+planks_4_interior 134217728 bumpmap_interior planks_4 none planks_4_height none none 1.0
+0.0 0.0 0.0
+planks_5_interior 134217728 bumpmap_interior_new planks_5 none planks_5_n none none 1.0
+0.0 0.0 0.0
+building_details_5_interior 134217728 bumpmap_interior_new building_details_5 none building_details_5_n none none 1.0
+0.0 0.0 0.0
+stone_wall_1 134217728 bump_static wall3 none wall3_height none none 1.0
+0.0 0.0 0.0
+terrain_grassy 134217728 diffuse_no_shadow terrain_grassy none none none none 1.0
+0.0 0.0 0.0
+terrain_snowy 134217728 diffuse_no_shadow terrain_snowy none none none none 1.0
+0.0 0.0 0.0
+terrain_steppe 134217728 diffuse_no_shadow terrain_steppe none none none none 1.0
+0.0 0.0 0.0
+terrain_steppe_alpha 134217984 diffuse_no_shadow terrain_steppe none none none none 1.0
+0.0 0.0 0.0
+terrain_desert 134217728 diffuse_no_shadow terrain_desert none none none none 1.0
+0.0 0.0 0.0
+terrain_desert_alpha 134217984 diffuse_no_shadow terrain_desert none none none none 1.0
+0.0 0.0 0.0
+stone_wall_1_interior 134217728 bumpmap_interior wall3 none wall3_height none none 1.0
+0.0 0.0 0.0
+stone_wall_2 134217728 bump_static stone_wall_2 none stone_wall_2_height none none 1.0
+0.0 0.0 0.0
+stone_wall_2_interior 134217728 bumpmap_interior stone_wall_2 none stone_wall_2_height none none 1.0
+0.0 0.0 0.0
+stone_wall_3 134217728 bump_static stone_wall_3 none stone_wall_3_height none none 1.0
+0.0 0.0 0.0
+stone_wall_3_interior 134217728 bumpmap_interior stone_wall_3 none stone_wall_3_height none none 1.0
+0.0 0.0 0.0
+stone_wall_4 134217728 tex_mul_color_static stone_wall_3 none none none none 1.0
+0.0 0.0 0.0
+stone_wall_5 134217728 bump_static stone_wall_5 none stone_wall_5_height none none 1.0
+0.0 0.0 0.0
+stone_wall_5_interior 134217728 bumpmap_interior stone_wall_5 none stone_wall_5_height none none 1.0
+0.0 0.0 0.0
+stone_wall_6 134217728 tex_mul_color_static stone_wall_3 none none none none 1.0
+0.0 0.0 0.0
+stone_wall_7 134217728 bump_static stone_wall_7 none stone_wall_7_height none none 1.0
+0.0 0.0 0.0
+stone_wall_7_interior 134217728 bumpmap_interior stone_wall_7 none stone_wall_7_height none none 1.0
+0.0 0.0 0.0
+stone_wall_8 134217728 bump_static stone_wall_8 none stone_wall_8_height none none 1.0
+0.0 0.0 0.0
+stone_wall_8_snowy 134217728 bump_static stone_wall_8_snowy none stone_wall_8_height none none 1.0
+0.0 0.0 0.0
+stone_wall_8b 134217728 bump_static stone_wall_8b none stone_wall_8_height none none 1.0
+0.0 0.0 0.0
+stone_wall_9 134217728 bump_static stone_wall_9 none stone_wall_9_height none none 1.0
+0.0 0.0 0.0
+stone_wall_9_snowy 134217728 bump_static stone_wall_9_snowy none stone_wall_9_height none none 1.0
+0.0 0.0 0.0
+stone_wall_10 134217728 bump_static stone_wall_10 none stone_wall_10_height none none 1.0
+0.0 0.0 0.0
+hunting_horse 1824 nospecular_shader_skin_bump_high_aniso hunting_horse manface_young hunting_horse_normalmap none none 10.000000
+0.500000 0.500000 0.500000
+hunting_horse_lod 17039616 agent_shader hunting_horse none none none none 1.0
+0.0 0.0 0.0
+courser 1824 nospecular_shader_skin_bump_high_aniso courser manface_young hunting_horse_normalmap none none 10.000000
+0.500000 0.500000 0.500000
+steppe_horse 1824 nospecular_shader_skin_bump_high_aniso steppe_horse manface_young steppe_horse_normalmap none none 1.000000
+0.000000 0.000000 0.000000
+sumpter_horse 1824 nospecular_shader_skin_bump_high_aniso sumpter_horse manface_young sumpter_horse_normalmap none none 1.000000
+0.000000 0.000000 0.000000
+saddle_horse 1824 nospecular_shader_skin_bump_high_aniso saddle_horse manface_young saddle_horse_normalmap none none 1.000000
+0.000000 0.000000 0.000000
+horse_a 1824 nospecular_shader_skin_bump_high_aniso horse_a manface_young horse_a_normalmap none none 1.000000
+0.000000 0.000000 0.000000
+horse_b 1824 nospecular_shader_skin_bump_high_aniso horse_b manface_young horse_b_normalmap none none 1.000000
+0.000000 0.000000 0.000000
+charger 1824 specular_shader_skin_bump_high_aniso charger manface_young charger_normalmap none charger_specular 16.000000
+0.500000 0.500000 0.500000
+war_horse 1824 specular_shader_skin_bump_high_aniso war_horse manface_young war_horse_normalmap none war_horse_specular 16.000000
+0.100000 0.100000 0.100000
+roof_1 134217728 tex_mul_color_static roof_plates none none none none 1.0
+0.0 0.0 0.0
+roof_2 150999040 standart_shader_bump_nospec_high_noterraincolor roof_thatched none roof_thatched_n none none 1.0
+0.0 0.0 0.0
+roof_tiles 134217728 tex_mul_color_static roof_tiles none none none none 1.0
+0.0 0.0 0.0
+rock_1 150994944 bump_static stone none synth_patch_rock_a_height none none 1.0
+0.0 0.0 0.0
+rock_1_plain 150994944 tex_mul_color_static stone none none none none 1.0
+0.0 0.0 0.0
+distant_rock 134217984 diffuse_no_shadow stone none none none none 1.0
+0.0 0.0 0.0
+distant_snow 134217728 diffuse_no_shadow snow none none none none 1.0
+0.0 0.0 0.0
+distant_stone 134217728 diffuse_no_shadow rock_b none none none none 1.0
+0.0 0.0 0.0
+rock_2 150994944 bump_static synth_patch_rock_a none synth_patch_rock_a_height none none 1.0
+0.0 0.0 0.0
+trunks 134217728 bump_static trunks none trunks_height none none 1.0
+0.0 0.0 0.0
+trunks_no_bump 0 tex_mul_color_static trunks none none none none 1.0
+0.0 0.0 0.0
+trunks_snowy 134217728 bump_static trunks_snowy none trunks_snowy_normalmap none none 1.0
+0.0 0.0 0.0
+trunks_interior 134217728 bumpmap_interior trunks none trunks_height none none 1.0
+0.0 0.0 0.0
+snow_simple 33554688 map_shader_bump snow none ground_village_bump none none 1.0
+0.0 0.0 0.0
+stone_a_obj 0 standart_shader_bump_nospec_high_noterraincolor rock_b none rock_b_normalmap none none 1.0
+0.0 0.0 0.0
+building_details 0 tex_mul_color_static building_details none none none none 1.0
+0.0 0.0 0.0
+steppe_fake_houses 16777472 tex_mul_color_mul_factor_alpha steppe_fake_houses none none none none 1.0
+0.0 0.0 0.0
+carpet_a 0 tex_mul_color_static carpet_a none none none none 1.0
+0.0 0.0 0.0
+carpet_b 0 tex_mul_color_static carpet_b none none none none 1.0
+0.0 0.0 0.0
+carpet_c 0 tex_mul_color_static carpet_c none none none none 1.0
+0.0 0.0 0.0
+surcoat_over_mail 1824 specular_shader_skin_bump_high surcoat_over_mail none surcoat_over_mail_normalmap none surcoat_over_mail_specular 16.000000
+10.000000 10.000000 10.000000
+tribal_warrior_outfit_a 1824 specular_shader_skin_bump_high tribal_warrior_outfit_a none tribal_warrior_outfit_a_normalmap none tribal_warrior_outfit_a_specular 16.000000
+10.000000 10.000000 10.000000
+mail_long_surcoat 1824 specular_shader_skin_bump_high mail_long_surcoat none mail_long_surcoat_normalmap none mail_long_surcoat_specular 16.000000
+10.000000 10.000000 10.000000
+ragged_outfit_a 1824 specular_shader_skin_bump_high ragged_outfit_a none ragged_outfit_a_normalmap none ragged_outfit_a_specular 16.000000
+10.000000 10.000000 10.000000
+nobleman_outfit_b 1824 specular_shader_skin_bump_high nobleman_outfit_b none nobleman_outfit_b_normalmap none nobleman_outfit_b_specular 16.000000
+4.000000 4.000000 4.000000
+byrnie_a 1824 specular_shader_skin_bump_high byrnie_a none byrnie_a_normalmap none byrnie_a_specular 16.000000
+10.000000 10.000000 10.000000
+hauberk 1824 specular_shader_skin_bump_high hauberk none hauberk_normalmap none hauberk_specular 16.000000
+10.000000 10.000000 10.000000
+blue_dress 1792 standart_shader_skin_bump_nospec_high blue_dress none blue_dress_normalmap none none 1.0
+0.0 0.0 0.0
+peasant_dress_b 1792 standart_shader_skin_bump_nospec_high peasant_dress_b none peasant_dress_b_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+arena_armorW 1824 specular_shader_skin_bump_high arena_armorW none arena_armor_normalmap none arena_armor_specular 16.000000
+10.000000 10.000000 10.000000
+arena_armorR 1824 specular_shader_skin_bump_high arena_armorR none arena_armor_normalmap none arena_armor_specular 16.000000
+10.000000 10.000000 10.000000
+arena_armorB 1824 specular_shader_skin_bump_high arena_armorB none arena_armor_normalmap none arena_armor_specular 16.000000
+10.000000 10.000000 10.000000
+arena_armorG 1824 specular_shader_skin_bump_high arena_armorG none arena_armor_normalmap none arena_armor_specular 16.000000
+10.000000 10.000000 10.000000
+arena_armorY 1824 specular_shader_skin_bump_high arena_armorY none arena_armor_normalmap none arena_armor_specular 16.000000
+10.000000 10.000000 10.000000
+arena_tunicW 1824 standart_shader_skin_bump_nospec_high arena_tunicW none arena_tunic_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+arena_tunicB 1824 standart_shader_skin_bump_nospec_high arena_tunicB none arena_tunic_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+arena_tunicG 1824 standart_shader_skin_bump_nospec_high arena_tunicG none arena_tunic_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+arena_tunicR 1824 standart_shader_skin_bump_nospec_high arena_tunicR none arena_tunic_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+arena_tunicY 1824 standart_shader_skin_bump_nospec_high arena_tunicY none arena_tunic_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+lamellar_leather 1824 standart_shader_skin_bump_nospec_high lamellar_leather none lamellar_leather_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+fur_coat 1792 standart_shader_skin_bump_nospec_high fur_coat none fur_coat_normalmap none none 1.0
+0.0 0.0 0.0
+sarranid_elite_cavalary 1824 specular_shader_skin_bump_high sarranid_elite_cavalary_diff none sarranid_elite_cavalary_normal none sarranid_elite_cavalary_spec 16.000000
+10.000000 10.000000 10.000000
+lamellar_armor_b 1824 specular_shader_skin_bump_high lamellar_armor_b none lamellar_armor_b_normalmap none lamellar_armor_b_specular 20.000000
+10.000000 10.000000 10.000000
+lamellar_armor_e 1824 specular_shader_skin_bump_high lamellar_armor_e none lamellar_armor_e_normalmap none lamellar_armor_e_specular 16.000000
+10.000000 10.000000 10.000000
+arena_helmets 1824 specular_shader_noskin_bump_high arena_helmets none arena_helmets_normalmap none arena_helmets_specular 16.000000
+10.000000 10.000000 10.000000
+head_wrapping 1824 standart_shader_skin_bump_nospec_high head_wrapping none head_wrapping_normalmap none none 16.000000
+10.000000 10.000000 10.000000
+mail_and_plate 1824 specular_shader_skin_bump_high mail_and_plate none mail_and_plate_normalmap none mail_and_plate_specular 20.000000
+10.000000 10.000000 10.000000
+light_mail_and_plate 1824 specular_shader_skin_bump_high light_mail_and_plate none light_mail_and_plate_normalmap none light_mail_and_plate_specular 20.000000
+10.000000 10.000000 10.000000
+lamellar_armor_a 1824 specular_shader_skin_bump_high lamellar_armor_a none lamellar_armor_a_normalmap none lamellar_armor_a_specular 20.000000
+10.000000 10.000000 10.000000
+light_leather 1792 standart_shader_skin_bump_nospec_high light_leather none none none light_leather_normalmap 20.000000
+10.000000 10.000000 10.000000
+building_details_2 67109128 tex_mul_color_alpha building_details_2 none none none none 1.0
+0.0 0.0 0.0
+building_details_3 0 tex_mul_color_static building_details_3 none none none none 1.0
+0.0 0.0 0.0
+building_details_4 33554696 tex_mul_color_alpha building_details_4 none none none none 1.0
+0.0 0.0 0.0
+rushes 9984 tex_mul_color_alpha rushes none none none none 1.0
+0.0 0.0 0.0
+banners_default 16777472 tex_mul_color_mul_factor_alpha banners_default none none none none 1.0
+0.0 0.0 0.0
+color_picker 16777472 tex_mul_color_mul_factor_alpha color_picker none none none none 1.0
+0.0 0.0 0.0
+custom_banner 16777472 tex_mul_color_mul_factor_alpha custom_banner none none none none 1.0
+0.0 0.0 0.0
+custom_banner_default 67109120 tex_mul_color_mul_factor_alpha custom_banner none none none none 1.0
+0.0 0.0 0.0
+custom_banner_tall 67109120 tex_mul_color_mul_factor_alpha custom_banner_tall none none none none 1.0
+0.0 0.0 0.0
+custom_banner_short 67109120 tex_mul_color_mul_factor_alpha custom_banner_short none none none none 1.0
+0.0 0.0 0.0
+custom_banner_square 67109120 tex_mul_color_mul_factor_alpha custom_banner_square none none none none 1.0
+0.0 0.0 0.0
+custom_banner_charges 33554688 tex_mul_color_mul_factor_alpha custom_banner_charges none none none none 1.0
+0.0 0.0 0.0
+banners_a 16777472 tex_mul_color_mul_factor_alpha banners_a none none none none 1.0
+0.0 0.0 0.0
+banners_b 16777472 tex_mul_color_mul_factor_alpha banners_b none none none none 1.0
+0.0 0.0 0.0
+banners_c 16777472 tex_mul_color_mul_factor_alpha banners_c none none none none 1.0
+0.0 0.0 0.0
+banners_d 16777472 tex_mul_color_mul_factor_alpha banners_d none none none none 1.0
+0.0 0.0 0.0
+banners_e 16777472 tex_mul_color_mul_factor_alpha banners_e none none none none 1.0
+0.0 0.0 0.0
+banners_f 16777472 tex_mul_color_mul_factor_alpha banners_g none none none none 1.0
+0.0 0.0 0.0
+banners_kingdoms 16777472 tex_mul_color_mul_factor_alpha banners_kingdoms none none none none 1.0
+0.0 0.0 0.0
+banners_b_additive 100663808 no_shade banners_b none none none none 1.0
+0.0 0.0 0.0
+vine 134225984 flora_shader vine none none none none 1.0
+0.0 0.0 0.0
+stucco_snowy 134217728 tex_mul_color_static stucco_snowy none none none none 1.0
+0.0 0.0 0.0
+planks_snowy 134217728 tex_mul_color_static planks_snowy none none none none 1.0
+0.0 0.0 0.0
+wall_snowy 134217728 bump_static wall_snowy none wall3_height none none 1.0
+0.0 0.0 0.0
+building_alpha 67109124 tex_mul_color_alpha building_alpha none none none none 1.0
+0.0 0.0 0.0
+building_1b_alpha 8192 tex_mul_color_alpha building_1b_alpha none none none none 1.0
+0.0 0.0 0.0
+net 8192 tex_mul_color_alpha net none none none none 1.0
+0.0 0.0 0.0
+stone_buildings 8192 tex_mul_color_alpha stone_buildings none none none none 1.0
+0.0 0.0 0.0
+noise_mask_1 67109120 tex_mul_color_alpha noise_mask_1 none none none none 1.0
+0.0 0.0 0.0
+glow 83886601 tex_mul_color_alpha glow none none none none 1.0
+0.0 0.0 0.0
+samurai 1792 agent_shader_Instanced samurai none none none none 1.0
+0.0 0.0 0.0
+rock_a 0 tex_mul_color_static rock_a none none none none 1.0
+0.0 0.0 0.0
+tent 0 tex_mul_color_static tent none none none none 1.0
+0.0 0.0 0.0
+fake_houses 16777472 tex_mul_color_mul_factor_alpha fake_houses none none none none 1.0
+0.0 0.0 0.0
+fake_houses_snowy 16777472 tex_mul_color_mul_factor_alpha fake_houses_snowy none none none none 1.0
+0.0 0.0 0.0
+sample_shield_matte 1792 agent_shader_Instanced shields none none none none 1.0
+0.0 0.0 0.0
+sample_shield_round_1 1792 specular_shader_Instanced shields none none earthenvmap tableau_shield_round_1_specular 15.000000
+7.500000 7.500000 7.500000
+tableau_shield_round_1 67109120 simple_shader_no_mip tableau_shield_round_1 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_round_2 67109120 simple_shader_no_mip tableau_shield_round_2 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_round_3 67109120 simple_shader_no_mip tableau_shield_round_3 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_round_4 67109120 simple_shader_no_mip tableau_shield_round_4 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_round_5 67109120 simple_shader_no_mip tableau_shield_round_5 none none none none 1.0
+0.0 0.0 0.0
+sample_shield_small_round_1 1792 specular_shader_Instanced shields none none earthenvmap tableau_shield_small_round_1_specular 16.000000
+18.500000 18.500000 18.500000
+tableau_shield_small_round_1 67109120 simple_shader_no_mip tableau_shield_small_round_1 none none none none 1.0
+0.0 0.0 0.0
+sample_shield_small_round_2 1792 specular_shader_Instanced shields none none earthenvmap tableau_shield_small_round_2_specular 25.000000
+28.500000 28.500000 28.500000
+tableau_shield_small_round_2 67109120 simple_shader_no_mip tableau_shield_small_round_2 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_small_round_3 67109120 simple_shader_no_mip tableau_shield_small_round_3 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_kite_1 67109120 simple_shader_no_mip tableau_shield_kite_1 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_kite_2 67109120 simple_shader_no_mip tableau_shield_kite_2 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_kite_3 67109120 simple_shader_no_mip tableau_shield_kite_3 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_kite_4 67109120 simple_shader_no_mip tableau_shield_kite_4 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_heater_1 67109120 simple_shader_no_mip tableau_shield_heater_1 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_heater_2 67109120 simple_shader_no_mip tableau_shield_heater_2 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_pavise_1 67109120 simple_shader_no_mip tableau_shield_pavise_1 none none none none 1.0
+0.0 0.0 0.0
+tableau_shield_pavise_2 67109120 simple_shader_no_mip tableau_shield_pavise_2 none none none none 1.0
+0.0 0.0 0.0
+tableau_with_transparency 117440768 no_shade pic_looters none none none none 1.0
+0.0 0.0 0.0
+troop_portrait 256 no_shade pic_looters none none none none 1.0
+0.0 0.0 0.0
+mat_troop_portrait_mask 16777984 no_shade pic_looters none none none none 1.0
+0.0 0.0 0.0
+mat_troop_portrait_color 0 no_shade_no_alpha pic_looters none none none none 1.0
+0.0 0.0 0.0
+sample_heraldic_armor_a 1824 specular_shader_skin_bump_high heraldic_armor_a none heraldic_armor_a_normalmap none heraldic_armor_a_specular 16.000000
+4.000000 4.000000 4.000000
+heraldic_armor_bg 234881024 simple_shader_no_mip heraldic_armor_bg none none none none 1.0
+0.0 0.0 0.0
+heraldic_armor_a 67109120 simple_shader_no_mip heraldic_armor_a none none none none 1.0
+0.0 0.0 0.0
+sample_heraldic_armor_b 1824 specular_shader_skin_bump_high heraldic_armor_b none heraldic_armor_b_normalmap none heraldic_armor_b_specular 16.000000
+4.000000 4.000000 4.000000
+heraldic_armor_b 67109120 simple_shader_no_mip heraldic_armor_b none none none none 1.0
+0.0 0.0 0.0
+sample_heraldic_armor_c 1824 specular_shader_skin_bump_high heraldic_armor_c none heraldic_armor_c_normalmap none heraldic_armor_c_specular 16.000000
+4.000000 4.000000 4.000000
+heraldic_armor_c 67109120 simple_shader_no_mip heraldic_armor_c none none none none 1.0
+0.0 0.0 0.0
+sample_heraldic_armor_d 1824 specular_shader_skin_bump_high heraldic_armor_d none heraldic_armor_d_normalmap none heraldic_armor_d_specular 16.000000
+4.000000 4.000000 4.000000
+heraldic_armor_d 67109120 simple_shader_no_mip heraldic_armor_d none none none none 1.0
+0.0 0.0 0.0
+pic_bandits 768 no_shade pic_looters none none none none 1.0
+0.0 0.0 0.0
+pic_messenger 768 no_shade pic_messenger none none none none 1.0
+0.0 0.0 0.0
+pic_prisoner_man 768 no_shade pic_prisoner_man none none none none 1.0
+0.0 0.0 0.0
+pic_prisoner_fem 768 no_shade pic_prisoner_fem none none none none 1.0
+0.0 0.0 0.0
+pic_prisoner_wilderness 768 no_shade pic_prisoner_wilderness none none none none 1.0
+0.0 0.0 0.0
+pic_siege_sighted 768 no_shade pic_siege_sighted none none none none 1.0
+0.0 0.0 0.0
+pic_siege_sighted_fem 768 no_shade pic_siege_sighted_fem none none none none 1.0
+0.0 0.0 0.0
+pic_camp 768 no_shade pic_camp none none none none 1.0
+0.0 0.0 0.0
+pic_payment 768 no_shade pic_payment none none none none 1.0
+0.0 0.0 0.0
+pic_escape_1 768 no_shade pic_escape_1 none none none none 1.0
+0.0 0.0 0.0
+pic_escape_1_fem 768 no_shade pic_escape_1_fem none none none none 1.0
+0.0 0.0 0.0
+pic_victory 768 no_shade pic_victory none none none none 1.0
+0.0 0.0 0.0
+pic_defeat 768 no_shade pic_defeat none none none none 1.0
+0.0 0.0 0.0
+pic_wounded 768 no_shade pic_wounded none none none none 1.0
+0.0 0.0 0.0
+pic_wounded_fem 768 no_shade pic_wounded_fem none none none none 1.0
+0.0 0.0 0.0
+pic_steppe_bandits 768 no_shade pic_steppe_bandits none none none none 1.0
+0.0 0.0 0.0
+pic_mountain_bandits 768 no_shade pic_mountain_bandits none none none none 1.0
+0.0 0.0 0.0
+pic_forest_bandits 768 no_shade pic_forest_bandits none none none none 1.0
+0.0 0.0 0.0
+pic_sea_raiders 768 no_shade pic_sea_raiders none none none none 1.0
+0.0 0.0 0.0
+pic_deserters 768 no_shade pic_deserters none none none none 1.0
+0.0 0.0 0.0
+pic_cattle 768 no_shade pic_cattle none none none none 1.0
+0.0 0.0 0.0
+pic_looted_village 768 no_shade pic_looted_village none none none none 1.0
+0.0 0.0 0.0
+pic_village_w 768 no_shade pic_village_w none none none none 1.0
+0.0 0.0 0.0
+pic_village_s 768 no_shade pic_village_s none none none none 1.0
+0.0 0.0 0.0
+pic_village_p 768 no_shade pic_village_p none none none none 1.0
+0.0 0.0 0.0
+pic_recruits 768 no_shade pic_recruits none none none none 1.0
+0.0 0.0 0.0
+pic_arms_swadian 768 no_shade pic_arms_swadian none none none none 1.0
+0.0 0.0 0.0
+pic_arms_vaegir 768 no_shade pic_arms_vaegir none none none none 1.0
+0.0 0.0 0.0
+pic_arms_khergit 768 no_shade pic_arms_khergit none none none none 1.0
+0.0 0.0 0.0
+pic_arms_nord 768 no_shade pic_arms_nord none none none none 1.0
+0.0 0.0 0.0
+pic_arms_rhodok 768 no_shade pic_arms_rhodok none none none none 1.0
+0.0 0.0 0.0
+pic_castle1 768 no_shade pic_castle1 none none none none 1.0
+0.0 0.0 0.0
+pic_castledes 768 no_shade pic_castledes none none none none 1.0
+0.0 0.0 0.0
+pic_castlesnow 768 no_shade pic_castlesnow none none none none 1.0
+0.0 0.0 0.0
+pic_charge 768 no_shade pic_charge none none none none 1.0
+0.0 0.0 0.0
+pic_khergit 768 no_shade pic_khergit none none none none 1.0
+0.0 0.0 0.0
+pic_nord 768 no_shade pic_nord none none none none 1.0
+0.0 0.0 0.0
+pic_rhodock 768 no_shade pic_rhodock none none none none 1.0
+0.0 0.0 0.0
+pic_sally_out 768 no_shade pic_sally_out none none none none 1.0
+0.0 0.0 0.0
+pic_siege_attack 768 no_shade pic_siege_attack none none none none 1.0
+0.0 0.0 0.0
+pic_swad 768 no_shade pic_swad none none none none 1.0
+0.0 0.0 0.0
+pic_town1 768 no_shade pic_town1 none none none none 1.0
+0.0 0.0 0.0
+pic_towndes 768 no_shade pic_towndes none none none none 1.0
+0.0 0.0 0.0
+pic_townriot 768 no_shade pic_townriot none none none none 1.0
+0.0 0.0 0.0
+pic_townsnow 768 no_shade pic_townsnow none none none none 1.0
+0.0 0.0 0.0
+pic_vaegir 768 no_shade pic_vaegir none none none none 1.0
+0.0 0.0 0.0
+pic_villageriot 768 no_shade pic_villageriot none none none none 1.0
+0.0 0.0 0.0
+pic_sarranid_arms 768 no_shade pic_sarranid_arms none none none none 1.0
+0.0 0.0 0.0
+pic_sarranid_encounter 768 no_shade pic_sarranid_encounter none none none none 1.0
+0.0 0.0 0.0
+crossbow_a 1824 specular_shader_noskin_bump_high_Instanced crossbow_a none crossbow_a_normalmap none crossbow_a_specular 16.000000
+15.000000 15.000000 15.000000
+crossbow_b 1824 specular_shader_noskin_bump_high_Instanced crossbow_b none crossbow_a_normalmap none crossbow_a_specular 16.000000
+15.000000 15.000000 15.000000
+arabian_armor_a 1792 standart_shader_skin_bump_nospec_high arabian_armor_a none arabian_armor_a_normalmap none none 1.0
+0.0 0.0 0.0
+peasant_man_a 1792 standart_shader_skin_bump_nospec_high peasant_man_a none peasant_man_a_normalmap none none 1.0
+0.0 0.0 0.0
+rock 150995200 standart_shader_bump_nospec_high_Instanced rock none rock_normalmap none none 1.0
+0.0 0.0 0.0
+arabian_armor_b 1824 specular_shader_skin_bump_high arabian_armor_b none arabian_armor_b_normalmap none arabian_armor_b_specular 16.000000
+12.000000 12.000000 12.000000
+coat_of_plates_a 1824 specular_shader_skin_bump_high coat_of_plates_a none coat_of_plates_a_normalmap none coat_of_plates_a_specular 16.000000
+15.000000 15.000000 15.000000
+coat_of_plates_red 1824 specular_shader_skin_bump_high coat_of_plates_red none coat_of_plates_a_normalmap none coat_of_plates_a_specular 16.000000
+15.000000 15.000000 15.000000
+leather_armor_a 1824 specular_shader_skin_bump_high leather_armor_a none leather_armor_a_normalmap none leather_armor_a_specular 14.000000
+8.000000 7.800000 7.600000
+leather_armor_b 1824 specular_shader_skin_bump_high leather_armor_b none leather_armor_b_normalmap none leather_armor_b_specular 14.000000
+6.000000 5.900000 5.700000
+ragged_leather_jerkin 1824 specular_shader_skin_bump_high ragged_leather_jerkin none ragged_leather_jerkin_normalmap none ragged_leather_jerkin_specular 14.000000
+15.000000 15.000000 15.000000
+thick_coat_a 1824 specular_shader_skin_bump_high thick_coat_a none thick_coat_a_normalmap none thick_coat_a_specular 10.700000
+5.000000 5.000000 5.000000
+coat_of_plates_b 1792 standart_shader_skin_bump_nospec_high coat_of_plates_b none coat_of_plates_b_normalmap none none 1.0
+0.0 0.0 0.0
+lamellar_armor_c 1824 specular_shader_skin_bump_high lamellar_armor_c none lamellar_armor_c_normalmap none lamellar_armor_c_specular 16.000000
+15.000000 15.000000 15.000000
+lamellar_armor_d 1824 specular_shader_skin_bump_high lamellar_armor_d none lamellar_armor_d_normalmap none lamellar_armor_d_specular 16.000000
+15.000000 15.000000 15.000000
+lamellar_vest_a 1824 specular_shader_skin_bump_high lamellar_vest_a none lamellar_vest_a_normalmap none lamellar_vest_a_specular 16.000000
+15.000000 15.000000 15.000000
+lamellar_vest_b 288 specular_shader_skin_bump_high lamellar_vest_b none lamellar_vest_a_normalmap none lamellar_vest_a_specular 16.000000
+15.000000 15.000000 15.000000
+tunic_armor_a 1824 specular_shader_skin_bump_high tunic_armor_a none tunic_armor_a_normalmap none tunic_armor_a_specular 16.000000
+15.000000 15.000000 15.000000
+leather_vest_a 1824 specular_shader_skin_bump_high leather_vest_a none leather_vest_a_normalmap none leather_vest_a_specular 14.000000
+8.000000 7.800000 7.600000
+padded_cloth_a 1792 standart_shader_skin_bump_nospec_high padded_cloth_a none padded_cloth_a_normalmap none none 1.0
+0.0 0.0 0.0
+padded_cloth_b 1792 standart_shader_skin_bump_nospec_high padded_cloth_b none padded_cloth_b_normalmap none none 1.0
+0.0 0.0 0.0
+red_gambeson_a 1792 standart_shader_skin_bump_nospec_high red_gambeson_a none red_gambeson_a_normalmap none none 1.0
+0.0 0.0 0.0
+shirt_a 1792 standart_shader_skin_bump_nospec_high shirt_a none shirt_a_normalmap none none 1.0
+0.0 0.0 0.0
+banded_armor_a 1824 specular_shader_skin_bump_high banded_armor_a none banded_armor_a_normalmap none banded_armor_a_specular 14.000000
+8.000000 7.800000 7.600000
+brigandine_b 1824 specular_shader_skin_bump_high brigandine_b none brigandine_b_normalmap none brigandine_b_specular 16.000000
+15.000000 15.000000 15.000000
+haubergeon_c 1824 specular_shader_skin_bump_high haubergeon_c none haubergeon_c_normalmap none haubergeon_c_specular 16.000000
+15.000000 15.000000 15.000000
+mail_shirt_a 1824 specular_shader_skin_bump_high mail_shirt_a none mail_shirt_a_normalmap none mail_shirt_a_specular 16.000000
+15.000000 15.000000 15.000000
+tattered_leather_armor_a 1824 specular_shader_skin_bump_high tattered_leather_armor_a none tattered_leather_armor_a_normalmap none tattered_leather_armor_a_specular 14.000000
+9.000000 8.800000 8.600000
+coarse_tunic_a 1792 standart_shader_skin_bump_nospec_high coarse_tunic_a none coarse_tunic_a_normalmap none none 1.0
+0.0 0.0 0.0
+cuir_bouilli_a 1824 specular_shader_skin_bump_high cuir_bouilli_a none cuir_bouilli_a_normalmap none cuir_bouilli_a_specular 16.000000
+15.000000 15.000000 15.000000
+rich_tunic_a 1792 standart_shader_skin_bump_nospec_high rich_tunic_a none rich_tunic_a_normalmap none none 1.0
+0.0 0.0 0.0
+tabard_b 1792 standart_shader_skin_bump_nospec_high tabard_b none tabard_b_normalmap none none 1.0
+0.0 0.0 0.0
+skirmisher_armor 1824 specular_shader_skin_bump_high skirmisher_armor none skirmisher_armor_normalmap none skirmisher_armor_specular 10.000000
+6.000000 4.000000 2.000000
+sarranid_cloth_robe 1792 standart_shader_skin_bump_nospec_high sarranid_cloth_robe none sarranid_cloth_robe_normalmap none none 1.0
+0.0 0.0 0.0
+sarranid_cloth_robe_b 1792 standart_shader_skin_bump_nospec_high sarranid_cloth_robe_b none sarranid_cloth_robe_normalmap none none 1.0
+0.0 0.0 0.0
+sarranid_leather_armor 1824 specular_shader_skin_bump_high sarranid_leather_armor none sarranid_leather_armor_normalmap none sarranid_leather_armor_specular 10.000000
+6.000000 4.000000 2.000000
+archers_vest 1792 standart_shader_skin_bump_nospec_high archers_vest none archers_vest_normalmap none none 1.0
+0.0 0.0 0.0
+sarranian_mail_shirt 1824 specular_shader_skin_bump_high sarranian_mail_shirt none sarranian_mail_shirt_normalmap none sarranian_mail_shirt_specular 10.000000
+6.000000 4.000000 2.000000
+sarranid_helmets 1824 specular_shader_skin_bump_high sarranid_helmets none sarranid_helmets_normalmap none sarranid_helmets_specular 16.000000
+10.000000 10.000000 10.000000
+khergit_lady_dress 1824 specular_shader_skin_bump_high khergit_lady_dress_a none khergit_lady_dress_a_normalmap none khergit_lady_dress_a_specular 10.000000
+4.000000 18.000000 10.000000
+khergit_lady_dress_b 1824 specular_shader_skin_bump_high khergit_lady_dress_b none khergit_lady_dress_a_normalmap none khergit_lady_dress_b_specular 35.000000
+4.000000 4.000000 4.000000
+vaegir_helmet 10016 specular_shader_noskin_bump_high vaegir_helmets none vaegir_helmets_normalmap none vaegir_helmets_specular 16.000000
+10.000000 10.000000 10.000000
+gauntlets_new 1824 specular_shader_skin_bump_high gauntlets_new none gauntlets_new_normalmap none gauntlets_new_specular 16.000000
+15.000000 15.000000 15.000000
+gauntlets 1824 iron_shader_Instanced gauntlets none none none none 13.000000
+3.000000 3.000000 3.000000
+leather_gloves 1824 specular_shader_skin_bump_high gauntlets_new none gauntlets_new_normalmap none gauntlets_new_specular 24.000000
+10.000000 10.000000 10.000000
+sarranid_lady_dress 1792 standart_shader_skin_bump_nospec_high sarranid_lady_dress none sarranid_lady_dress_normalmap none none 1.0
+0.0 0.0 0.0
+tulbent 33554720 standart_shader_nobump_nospec tulbent none none none none 15.000000
+50.000000 50.000000 50.000000
+tulbent_b 33554720 standart_shader_nobump_nospec tulbent_b none none none none 15.000000
+50.000000 50.000000 50.000000
+sarranid_lady_dress_b 1792 standart_shader_skin_bump_nospec_high sarranid_lady_dress_b none sarranid_lady_dress_normalmap none none 1.0
+0.0 0.0 0.0
+hair_headgear 10112 dot3_alpha hair_blonde gray none none none 1.0
+0.0 0.0 0.0
+bride_dress 33558912 standart_shader_skin_bump_nospec_high bride_dress none bride_dress_normalmap none none 1.0
+0.0 0.0 0.0
+bride_crown 67109248 standart_shader_skin_bump_nospec_high bride_dress none bride_dress_normalmap none none 1.0
+0.0 0.0 0.0
+full_plate 1824 specular_shader_skin_bump_high full_plate none full_plate_normalmap none full_plate_specular 20.000000
+10.000000 10.000000 10.000000
+ankle_boots_a_new 1792 standart_shader_skin_bump_nospec_high ankle_boots_a_new none ankle_boots_a_new_normalmap none none 1.0
+0.0 0.0 0.0
+blue_hose_a 1792 standart_shader_skin_bump_nospec_high blue_hose_a none blue_hose_a_normalmap none none 1.0
+0.0 0.0 0.0
+hide_boots_a 1792 standart_shader_skin_bump_nospec_high hide_boots_a none hide_boots_a_normalmap none none 1.0
+0.0 0.0 0.0
+leather_greaves_a 1824 specular_shader_skin_bump_high leather_greaves_a none leather_greaves_a_normalmap none leather_greaves_a_specular 16.000000
+15.000000 15.000000 15.000000
+nomad_boots_a 1792 standart_shader_skin_bump_nospec_high nomad_boots_a none nomad_boots_a_normalmap none none 1.0
+0.0 0.0 0.0
+nomad_armor 10016 specular_shader_skin_bump_high nomad_armor none nomad_armor_normalmap none nomad_armor_specular 16.000000
+3.000000 3.000000 3.000000
+nomad_vest_new 9984 standart_shader_skin_bump_nospec_high nomad_vest_new none nomad_vest_new_normalmap none none 16.000000
+3.000000 3.000000 3.000000
+khergit_armor 10016 specular_shader_skin_bump_high khergit_armor none khergit_armor_normalmap none khergit_armor_specular 16.000000
+3.000000 3.000000 3.000000
+leather_jacket 10016 specular_shader_skin_bump_high leather_jacket none leather_jacket_normalmap none leather_jacket_specular 30.000000
+3.000000 3.000000 3.000000
+splinted_greaves_a 1792 standart_shader_skin_bump_nospec_high splinted_greaves_a none splinted_greaves_a_normalmap none none 1.0
+0.0 0.0 0.0
+woolen_hose_a 1792 standart_shader_skin_bump_nospec_high woolen_hose_a none blue_hose_a_normalmap none none 1.0
+0.0 0.0 0.0
+hunter_boots_a 1792 standart_shader_skin_bump_nospec_high hunter_boots_a none hunter_boots_a_normalmap none none 1.0
+0.0 0.0 0.0
+iron_greaves_a 1824 specular_shader_skin_bump_high iron_greaves_a none iron_greaves_a_normalmap none iron_greaves_a_specular 16.000000
+15.000000 15.000000 15.000000
+leather_boots_a 1824 specular_shader_skin_bump_high leather_boots_a none leather_boots_a_normalmap none leather_boots_a_specular 16.000000
+15.000000 15.000000 15.000000
+mail_boots_a 1824 specular_shader_skin_bump_high mail_boots_a none mail_boots_a_normalmap none mail_boots_a_specular 16.000000
+15.000000 15.000000 15.000000
+mail_chausses_a 1824 specular_shader_skin_bump_high mail_chausses_a none mail_chausses_a_normalmap none mail_chausses_a_specular 16.000000
+15.000000 15.000000 15.000000
+wrapping_boots_a 1792 standart_shader_skin_bump_nospec_high wrapping_boots_a none wrapping_boots_a_normalmap none none 1.0
+0.0 0.0 0.0
+lyre 33554720 standart_shader_nobump_nospec lyre_diff none none none none 15.000000
+50.000000 50.000000 50.000000
+desert_plant_01 134226244 flora_shader plant none none none none 1.0
+0.0 0.0 0.0
+lute 33554720 standart_shader_nobump_nospec lute_diff none none none none 15.000000
+50.000000 50.000000 50.000000
+physics_render 134217984 tex_mul_color rock_b none none none none 1.0
+0.0 0.0 0.0
+sailing 134217984 dot3_alpha sailing none sailing_n none none 1.0
+0.0 0.0 0.0
+sailing_c 134217984 dot3_alpha sailing_c none sailing_n none none 1.0
+0.0 0.0 0.0
+sailing_b 134217984 dot3_alpha sailing_b none sailing_b_n none none 1.0
+0.0 0.0 0.0
+sailing_no_bump 33554432 standart_shader_nobump_nospec sailing none none none none 15.000000
+50.000000 50.000000 50.000000
+sailing_no_bump_b 33554432 standart_shader_nobump_nospec sailing_c none none none none 15.000000
+50.000000 50.000000 50.000000
+plank_ship 134217984 dot3_alpha plank_ship none plank_ship_n none none 1.0
+0.0 0.0 0.0
+sea_material 50331908 sea_shader ocean none waterbump none none 10.000000
+3.000000 3.000000 3.000000
+sea_material_ffp 50331908 sea_shader_ffp ocean none none none none 10.000000
+3.000000 3.000000 3.000000
+red_dress 1792 standart_shader_skin_bump_nospec_high medieval_women_diff none medieval_woman_normals none none 1.0
+0.0 0.0 0.0
+brown_dress 1792 standart_shader_skin_bump_nospec_high brown_dress_diff none brown_dress_normal none none 1.0
+0.0 0.0 0.0
+green_dress 288 specular_shader_skin_bump_high green_dress_diff none green_dress_normals none green_dress_spec 6.000000
+4.000000 8.000000 2.000000
+planks_5 134217728 standart_shader_bump_nospec_high_noterraincolor planks_5 none planks_5_n none none 1.0
+0.0 0.0 0.0
+planks_6 134217728 standart_shader_bump_nospec_high_noterraincolor planks_6 none planks_6_n none none 1.0
+0.0 0.0 0.0
+stucco_5 134217728 standart_shader_bump_nospec_high_noterraincolor stucco_5 none stucco_5_n none none 1.0
+0.0 0.0 0.0
+stucco_6 134217728 standart_shader_bump_nospec_high_noterraincolor stucco_6 none stucco_6_n none none 1.0
+0.0 0.0 0.0
+stucco_6_alpha 134217984 standart_shader_bump_nospec_high_noterraincolor stucco_6 none stucco_6_n none none 1.0
+0.0 0.0 0.0
+stucco_7 134217728 standart_shader_bump_nospec_high_noterraincolor stucco_7 none stucco_7_n none none 1.0
+0.0 0.0 0.0
+building_details_5 134217728 standart_shader_bump_nospec_high_noterraincolor building_details_5 none building_details_5_n none none 1.0
+0.0 0.0 0.0
+building_details_6 184549640 standart_shader_bump_nospec_high_noterraincolor building_details_6 none building_details_6_n none none 1.0
+0.0 0.0 0.0
+building_details_7 184549376 standart_shader_bump_nospec_high_noterraincolor building_details_7 none building_details_7_n none none 1.0
+0.0 0.0 0.0
+thread 33554720 standart_shader_nobump_nospec thread none none none none 15.000000
+50.000000 50.000000 50.000000
+silk 1824 specular_shader raw_materials none none none raw_materials_specular 37.000000
+130.000000 23.000000 0.000000
+flour_sack 201326592 tex_mul_color archers_vest none none none none 1.0
+0.0 0.0 0.0
+forge_bellows 134217728 standart_shader_nobump_nospec dialogue_window none none none none 1.0
+0.0 0.0 0.0
+tannery_hide 83886376 standart_shader_nobump_nospec raw_materials none none none none 15.000000
+50.000000 50.000000 50.000000
+ui_server_filter 201326848 no_shade ui_server_filter none none none none 1.0
+0.0 0.0 0.0
+warhorse_new 1824 specular_shader_skin_bump_high_aniso warhorse_new manface_young warhorse_new_normalmap none warhorse_new_specular 19.000000
+20.000000 20.000000 20.000000
+warhorse_sarranid 1824 specular_shader_skin_bump_high_aniso warhorse_sarranid manface_young warhorse_sarranid_normalmap none warhorse_sarranid_specular 21.000000
+20.000000 20.000000 20.000000
+warhorse_steppe 10016 specular_shader_skin_bump_high_aniso warhorse_steppe manface_young warhorse_steppe_normalmap none warhorse_steppe_specular 10.000000
+10.000000 10.000000 10.000000
+
+ end

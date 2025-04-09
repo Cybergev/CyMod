@@ -1,0 +1,1326 @@
+﻿trp_find_item_cheat|Чит-поиск предметов
+trp_find_item_cheat_pl|Чит-поиск предметов
+trp_temp_troop|Временный Отряд
+trp_temp_troop_pl|Временные Отряды
+trp_random_town_sequence|Random Town Sequence
+trp_random_town_sequence_pl|Random Town Sequence
+trp_tournament_participants|Участник турнира
+trp_tournament_participants_pl|Участники турнира
+trp_tutorial_maceman|Булавоносец
+trp_tutorial_maceman_pl|Булавоносцы
+trp_tutorial_archer|Лучник
+trp_tutorial_archer_pl|Лучники
+trp_tutorial_swordsman|Мечник
+trp_tutorial_swordsman_pl|Мечники
+trp_novice_fighter|Новобранец
+trp_novice_fighter_pl|Новобранцы
+trp_regular_fighter|Легионер
+trp_regular_fighter_pl|Легионеры
+trp_veteran_fighter|Ветеран
+trp_veteran_fighter_pl|Ветераны
+trp_champion_fighter|Чемпион
+trp_champion_fighter_pl|Чемпионы
+trp_arena_training_fighter_1|Новобранец
+trp_arena_training_fighter_1_pl|Новобранцы
+trp_arena_training_fighter_2|Новобранец
+trp_arena_training_fighter_2_pl|Новобранцы
+trp_arena_training_fighter_3|Легионер
+trp_arena_training_fighter_3_pl|Легионеры
+trp_arena_training_fighter_4|Легионер
+trp_arena_training_fighter_4_pl|Легионеры
+trp_arena_training_fighter_5|Легионер
+trp_arena_training_fighter_5_pl|Легионеры
+trp_arena_training_fighter_6|Ветеран
+trp_arena_training_fighter_6_pl|Ветераны
+trp_arena_training_fighter_7|Ветеран
+trp_arena_training_fighter_7_pl|Ветераны
+trp_arena_training_fighter_8|Ветеран
+trp_arena_training_fighter_8_pl|Ветераны
+trp_arena_training_fighter_9|Чемпион
+trp_arena_training_fighter_9_pl|Чемпионы
+trp_arena_training_fighter_10|Чемпион
+trp_arena_training_fighter_10_pl|Чемпионы
+trp_cattle|Скот
+trp_cattle_pl|Скот
+trp_farmer|Крестьянин
+trp_farmer_pl|Крестьяне
+trp_townsman|Горожанин
+trp_townsman_pl|Горожане
+trp_watchman|Стражник
+trp_watchman_pl|Стражники
+trp_caravan_guard|Конный страж
+trp_caravan_guard_pl|Конные стражи
+trp_mercenary_swordsman|Наемный мечник
+trp_mercenary_swordsman_pl|Наемные мечники
+trp_hired_blade|Вольный латник
+trp_hired_blade_pl|Вольные латники
+trp_mercenary_crossbowman|Наемный арбалетчик
+trp_mercenary_crossbowman_pl|Наемные арбалетчики
+trp_mercenary_horseman|Наемный всадник
+trp_mercenary_horseman_pl|Наемные всадники
+trp_mercenary_cavalry|Наемный рыцарь
+trp_mercenary_cavalry_pl|Наемные рыцари
+trp_mercenaries_end|mercenaries end
+trp_mercenaries_end_pl|mercenaries end
+trp_swadian_recruit|Рекрут-свад
+trp_swadian_recruit_pl|Рекруты-свады
+trp_swadian_militia|Ополченец-свад
+trp_swadian_militia_pl|Ополченцы-свады
+trp_swadian_footman|Копейщик-свад
+trp_swadian_footman_pl|Копейщики-свады
+trp_swadian_infantry|Мечник-свад
+trp_swadian_infantry_pl|Мечники-свады
+trp_black_guardsman|Черный гвардеец
+trp_black_guardsman_pl|Черные гвардейцы
+trp_swadian_skirmisher|Стрелок-свад
+trp_swadian_skirmisher_pl|Стрелки-свады
+trp_swadian_crossbowman|Арбалетчик-свад
+trp_swadian_crossbowman_pl|Арбалетчики-свады
+trp_swadian_sharpshooter|Снайпер-свад
+trp_swadian_sharpshooter_pl|Снайперы-свады
+trp_swadian_man_at_arms|Всадник-свад
+trp_swadian_man_at_arms_pl|Всадники-свады
+trp_swadian_knight|Рыцарь-свад
+trp_swadian_knight_pl|Рыцари-свады
+trp_swadian_messenger|Гонец-свад
+trp_swadian_messenger_pl|Гонцы-свады
+trp_swadian_deserter|Дезертир-свад
+trp_swadian_deserter_pl|Дезертиры-свады
+trp_swadian_prison_guard|Тюремщик-свад
+trp_swadian_prison_guard_pl|Тюремщики-свады
+trp_swadian_castle_guard|Стражник-свад
+trp_swadian_castle_guard_pl|Стражники-свады
+trp_vaegir_recruit|Рекрут-вегир
+trp_vaegir_recruit_pl|Рекруты-вегиры
+trp_vaegir_footman|Копейщик-вегир
+trp_vaegir_footman_pl|Копейщики-вегиры
+trp_vaegir_skirmisher|Стрелок-вегир
+trp_vaegir_skirmisher_pl|Стрелки-вегиры
+trp_vaegir_archer|Лучник-вегир
+trp_vaegir_archer_pl|Лучники-вегиры
+trp_vaegir_marksman|Снайпер-вегир
+trp_vaegir_marksman_pl|Снайперы-вегиры
+trp_vaegir_veteran|Ветеран-вегир
+trp_vaegir_veteran_pl|Ветераны-вегиры
+trp_vaegir_infantry|Мечник-вегир
+trp_vaegir_infantry_pl|Мечники-вегиры
+trp_vaegir_guard|Гвардеец-вегир
+trp_vaegir_guard_pl|Гвардйцы-вегиры
+trp_vaegir_horseman|Всадник-вегир
+trp_vaegir_horseman_pl|Всадники-вегиры
+trp_vaegir_knight|Рыцарь-вегир
+trp_vaegir_knight_pl|Рыцари-вегиры
+trp_vaegir_messenger|Гонец-вегир
+trp_vaegir_messenger_pl|Гонцы-вегиры
+trp_vaegir_deserter|Дезертир-вегир
+trp_vaegir_deserter_pl|Дезертиры-вегиры
+trp_vaegir_prison_guard|Тюремщик-вегир
+trp_vaegir_prison_guard_pl|Тюремщики-вегиры
+trp_vaegir_castle_guard|Стражник-вегир
+trp_vaegir_castle_guard_pl|Стражники-вегиры
+trp_khergit_tribesman|Воин-кергит
+trp_khergit_tribesman_pl|Воины-кергиты
+trp_khergit_skirmisher|Стрелок-кергит
+trp_khergit_skirmisher_pl|Стрелки-кергиты
+trp_khergit_horseman|Всадник-кергит
+trp_khergit_horseman_pl|Всадники-кергиты
+trp_khergit_horse_archer|Лучник-кергит
+trp_khergit_horse_archer_pl|Лучники-кергиты
+trp_khergit_veteran_horse_archer|Снайпер-кергит
+trp_khergit_veteran_horse_archer_pl|Снайперы-кергиты
+trp_khergit_lancer|Шайтан-кергит
+trp_khergit_lancer_pl|Шайтан-кергиты
+trp_khergit_messenger|Гонец-кергит
+trp_khergit_messenger_pl|Гонцы-кергиты
+trp_khergit_deserter|Дезертир-кергит
+trp_khergit_deserter_pl|Дезертиры-кергиты
+trp_khergit_prison_guard|Тюремщик-кергит
+trp_khergit_prison_guard_pl|Тюремщики-кергиты
+trp_khergit_castle_guard|Стражник-кергит
+trp_khergit_castle_guard_pl|Стражники-кергиты
+trp_nord_recruit|Рекрут-норд
+trp_nord_recruit_pl|Рекруты-норды
+trp_nord_footman|Копейщик-норд
+trp_nord_footman_pl|Копейщики-норды
+trp_nord_trained_footman|Пехотинец-норд
+trp_nord_trained_footman_pl|Пехотинцы-норды
+trp_nord_warrior|Боец-норд
+trp_nord_warrior_pl|Бойцы-норды
+trp_nord_veteran|Ветеран-норд
+trp_nord_veteran_pl|Ветераны-норды
+trp_nord_huscarl|Хускарл-норд
+trp_nord_huscarl_pl|Хускарлы-норды
+trp_nord_huntsman|Охотник-норд
+trp_nord_huntsman_pl|Охотники-норды
+trp_nord_archer|Лучник-норд
+trp_nord_archer_pl|Лучники-норды
+trp_nord_veteran_archer|Снайпер-норд
+trp_nord_veteran_archer_pl|Снайперы-норды
+trp_nord_messenger|Гонец-норд
+trp_nord_messenger_pl|Гонцы-норды
+trp_nord_deserter|Дезертир-норд
+trp_nord_deserter_pl|Дезертиры-норды
+trp_nord_prison_guard|Тюремщик-норд
+trp_nord_prison_guard_pl|Тюремщики-норды
+trp_nord_castle_guard|Стражник-норд
+trp_nord_castle_guard_pl|Стражники-норды
+trp_rhodok_tribesman|Ополченец-родок
+trp_rhodok_tribesman_pl|Ополченцы-родоки
+trp_rhodok_spearman|Копейщик-родок
+trp_rhodok_spearman_pl|Копейщики-родоки
+trp_rhodok_trained_spearman|Пехотинец-родок
+trp_rhodok_trained_spearman_pl|Пехотинцы-родоки
+trp_rhodok_veteran_spearman|Ветеран-родок
+trp_rhodok_veteran_spearman_pl|Ветераны-родоки
+trp_rhodok_sergeant|Мечник-родок
+trp_rhodok_sergeant_pl|Мечники-родоки
+trp_rhodok_crossbowman|Стрелок-родок
+trp_rhodok_crossbowman_pl|Стрелки-родоки
+trp_rhodok_trained_crossbowman|Арбалетчик-родок
+trp_rhodok_trained_crossbowman_pl|Арбалетчики-родоки
+trp_rhodok_veteran_crossbowman|Гвардеец-родок
+trp_rhodok_veteran_crossbowman_pl|Гвардейцы-родоки
+trp_rhodok_sharpshooter|Снайпер-родок
+trp_rhodok_sharpshooter_pl|Снайперы-родоки
+trp_rhodok_messenger|Гонец-родок
+trp_rhodok_messenger_pl|Гонцы-родоки
+trp_rhodok_deserter|Дезертир-родок
+trp_rhodok_deserter_pl|Дезертиры-родоки
+trp_rhodok_prison_guard|Тюремщик-родок
+trp_rhodok_prison_guard_pl|Тюремщики-родоки
+trp_rhodok_castle_guard|Стражник-родок
+trp_rhodok_castle_guard_pl|Стражники-родоки
+trp_sarranid_recruit|Рекрут-Сарранид
+trp_sarranid_recruit_pl|Рекрут-Сарранид
+trp_sarranid_footman|Копейщик-Сарранид
+trp_sarranid_footman_pl|Копейщики-Сараниды
+trp_sarranid_veteran_footman|Копейщик-Ветеран-Сарранид
+trp_sarranid_veteran_footman_pl|Копейщики-Ветераны-Сарраниды
+trp_sarranid_infantry|Пехотинец-Сарранид
+trp_sarranid_infantry_pl|Пехотинцы-Сарраниды
+trp_sarranid_guard|Стражник-Сарранид
+trp_sarranid_guard_pl|Стражники-Сарраниды
+trp_sarranid_skirmisher|Стрелок-Сарранид
+trp_sarranid_skirmisher_pl|Стрелки-Сарраниды
+trp_sarranid_archer|Лучник-Саррранид
+trp_sarranid_archer_pl|Лучники-Сарраниды
+trp_sarranid_master_archer|Лучник-Ветеран-Сарранид
+trp_sarranid_master_archer_pl|Лучники-Ветераны-Сарраниды
+trp_sarranid_horseman|Всадник-Сарранид
+trp_sarranid_horseman_pl|Всадники-Сарраниды
+trp_sarranid_mamluke|Сарранид-Мамлюк
+trp_sarranid_mamluke_pl|Сарраниды-Мамлюки
+trp_sarranid_messenger|Гонец-Сарранид
+trp_sarranid_messenger_pl|Гонцы-Сарраниды
+trp_sarranid_deserter|Дезертир-Сарранид
+trp_sarranid_deserter_pl|Дезертиры-Сарраниды
+trp_sarranid_prison_guard|Тюремщик
+trp_sarranid_prison_guard_pl|Тюремщики
+trp_sarranid_castle_guard|Стражник
+trp_sarranid_castle_guard_pl|Стражники
+trp_looter|Разбойник
+trp_looter_pl|Разбойники
+trp_bandit|Бандит
+trp_bandit_pl|Бандиты
+trp_brigand|Грабитель
+trp_brigand_pl|Грабители
+trp_mountain_bandit|Горный бандит
+trp_mountain_bandit_pl|Горные бандиты
+trp_forest_bandit|Лесной бандит
+trp_forest_bandit_pl|Лесные бандиты
+trp_sea_raider|Морской пират
+trp_sea_raider_pl|Морские пираты
+trp_steppe_bandit|Степной бандит
+trp_steppe_bandit_pl|Степные бандиты
+trp_taiga_bandit|Таежные Бандиты
+trp_taiga_bandit_pl|Таежные Бандиты
+trp_desert_bandit|Пустынный бандит
+trp_desert_bandit_pl|Пустынные бандиты
+trp_black_khergit_horseman|Черный всадник-кергит
+trp_black_khergit_horseman_pl|Черные всадники-кергиты
+trp_manhunter|Следопыт
+trp_manhunter_pl|Следопыты
+trp_slave_driver|Погонщик
+trp_slave_driver_pl|Погонщики
+trp_slave_hunter|Охотник
+trp_slave_hunter_pl|Охотники
+trp_slave_crusher|Крушитель
+trp_slave_crusher_pl|Крушители
+trp_slaver_chief|Атаман
+trp_slaver_chief_pl|Атаманы
+trp_follower_woman|Маркитантка
+trp_follower_woman_pl|Маркитантки
+trp_hunter_woman|Охотница
+trp_hunter_woman_pl|Охотницы
+trp_fighter_woman|Воительница
+trp_fighter_woman_pl|Воительницы
+trp_sword_sister|Сестра Меча
+trp_sword_sister_pl|Сестры Меча
+trp_refugee|Беженка
+trp_refugee_pl|Беженки
+trp_peasant_woman|Крестьянка
+trp_peasant_woman_pl|Крестьянки
+trp_caravan_master|Караванщик
+trp_caravan_master_pl|Караванщики
+trp_kidnapped_girl|Заложница
+trp_kidnapped_girl_pl|Заложницы
+trp_town_walker_1|Местный житель
+trp_town_walker_1_pl|Местные жители
+trp_town_walker_2|Местная жительница
+trp_town_walker_2_pl|Местные жительницы
+trp_khergit_townsman|Горожанин
+trp_khergit_townsman_pl|Горожане
+trp_khergit_townswoman|Горожанка
+trp_khergit_townswoman_pl|Горожанки
+trp_sarranid_townsman|Горожанин
+trp_sarranid_townsman_pl|Горожане
+trp_sarranid_townswoman|Горожанка
+trp_sarranid_townswoman_pl|Горожанки
+trp_village_walker_1|Селянин
+trp_village_walker_1_pl|Селяне
+trp_village_walker_2|Селянка
+trp_village_walker_2_pl|Селянки
+trp_spy_walker_1|Горожанин
+trp_spy_walker_1_pl|Горожане
+trp_spy_walker_2|Горожанка
+trp_spy_walker_2_pl|Горожанки
+trp_tournament_master|Мастер арены
+trp_tournament_master_pl|Мастер арены
+trp_trainer|Тренер
+trp_trainer_pl|Тренер
+trp_constable_hareck|Констебль Харек
+trp_constable_hareck_pl|Констебль Харек
+trp_ramun_the_slave_trader|Работорговец Рамун
+trp_ramun_the_slave_trader_pl|Работорговец Рамун
+trp_guide|Быстрый Джимми
+trp_guide_pl|Быстрый Джимми
+trp_xerina|Ксерина
+trp_xerina_pl|Ксерина
+trp_dranton|Дрэнтон
+trp_dranton_pl|Дрэнтон
+trp_kradus|Крадус
+trp_kradus_pl|Крадус
+trp_tutorial_trainer|Начальник лагеря
+trp_tutorial_trainer_pl|Начальник лагеря
+trp_galeas|Галеас
+trp_galeas_pl|Галеас
+trp_farmer_from_bandit_village|Крестьянин
+trp_farmer_from_bandit_village_pl|Крестьяне
+trp_trainer_1|Тренер
+trp_trainer_1_pl|Тренер
+trp_trainer_2|Тренер
+trp_trainer_2_pl|Тренер
+trp_trainer_3|Тренер
+trp_trainer_3_pl|Тренер
+trp_trainer_4|Тренер
+trp_trainer_4_pl|Тренер
+trp_trainer_5|Тренер
+trp_trainer_5_pl|Тренер
+trp_ransom_broker_1|Посредник
+trp_ransom_broker_1_pl|Посредники
+trp_ransom_broker_2|Посредник
+trp_ransom_broker_2_pl|Посредники
+trp_ransom_broker_3|Посредник
+trp_ransom_broker_3_pl|Посредники
+trp_ransom_broker_4|Посредник
+trp_ransom_broker_4_pl|Посредники
+trp_ransom_broker_5|Посредник
+trp_ransom_broker_5_pl|Посредники
+trp_ransom_broker_6|Посредник
+trp_ransom_broker_6_pl|Посредники
+trp_ransom_broker_7|Посредник
+trp_ransom_broker_7_pl|Посредники
+trp_ransom_broker_8|Посредник
+trp_ransom_broker_8_pl|Посредники
+trp_ransom_broker_9|Посредник
+trp_ransom_broker_9_pl|Посредники
+trp_ransom_broker_10|Посредник
+trp_ransom_broker_10_pl|Посредники
+trp_tavern_traveler_1|Путешественник
+trp_tavern_traveler_1_pl|Путешественники
+trp_tavern_traveler_2|Путешественник
+trp_tavern_traveler_2_pl|Путешественники
+trp_tavern_traveler_3|Путешественник
+trp_tavern_traveler_3_pl|Путешественники
+trp_tavern_traveler_4|Путешественник
+trp_tavern_traveler_4_pl|Путешественники
+trp_tavern_traveler_5|Путешественник
+trp_tavern_traveler_5_pl|Путешественники
+trp_tavern_traveler_6|Путешественник
+trp_tavern_traveler_6_pl|Путешественники
+trp_tavern_traveler_7|Путешественник
+trp_tavern_traveler_7_pl|Путешественники
+trp_tavern_traveler_8|Путешественник
+trp_tavern_traveler_8_pl|Путешественники
+trp_tavern_traveler_9|Путешественник
+trp_tavern_traveler_9_pl|Путешественники
+trp_tavern_traveler_10|Путешественник
+trp_tavern_traveler_10_pl|Путешественники
+trp_tavern_bookseller_1|Продавец книг
+trp_tavern_bookseller_1_pl|Продавец книг
+trp_tavern_bookseller_2|Продавец книг
+trp_tavern_bookseller_2_pl|Продавец книг
+trp_tavern_minstrel_1|Менестрель
+trp_tavern_minstrel_1_pl|Менестрели
+trp_tavern_minstrel_2|Бродяга Бард
+trp_tavern_minstrel_2_pl|Менестрель
+trp_tavern_minstrel_3|Бродяга Ашик
+trp_tavern_minstrel_3_pl|Менестрель
+trp_tavern_minstrel_4|Бродяга Скалд
+trp_tavern_minstrel_4_pl|Менестрель
+trp_tavern_minstrel_5|Бродяга Трубадур
+trp_tavern_minstrel_5_pl|Менестрель
+trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin
+trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin
+trp_npc1|Борча
+trp_npc1_pl|Борча
+trp_npc2|Марнид
+trp_npc2_pl|Марнид
+trp_npc3|Имира
+trp_npc3_pl|Имира
+trp_npc4|Рольф
+trp_npc4_pl|Рольф
+trp_npc5|Бахештур
+trp_npc5_pl|Бахештур
+trp_npc6|Фирентис
+trp_npc6_pl|Фирентис
+trp_npc7|Дешави
+trp_npc7_pl|Дешави
+trp_npc8|Мательд
+trp_npc8_pl|Мательд
+trp_npc9|Алаен
+trp_npc9_pl|Алаен
+trp_npc10|Бундук
+trp_npc10_pl|Бундук
+trp_npc11|Катрин
+trp_npc11_pl|Катрин
+trp_npc12|Джеремус
+trp_npc12_pl|Джеремус
+trp_npc13|Низар
+trp_npc13_pl|Низар
+trp_npc14|Лезалит
+trp_npc14_pl|Лезалит
+trp_npc15|Артименнер
+trp_npc15_pl|Артименнер
+trp_npc16|Клети
+trp_npc16_pl|Клети
+trp_kingdom_1_lord|Король Гарлаус
+trp_kingdom_1_lord_pl|Король Гарлаус
+trp_kingdom_2_lord|Царь Яроглек
+trp_kingdom_2_lord_pl|Царь Яроглек
+trp_kingdom_3_lord|Санджар-хан
+trp_kingdom_3_lord_pl|Санджар-хан
+trp_kingdom_4_lord|Король Рагнар
+trp_kingdom_4_lord_pl|Король Рагнар
+trp_kingdom_5_lord|Король Гравет
+trp_kingdom_5_lord_pl|Король Гравет
+trp_kingdom_6_lord|Султан Хаким
+trp_kingdom_6_lord_pl|Султан Хаким
+trp_knight_1_1|Кларгус
+trp_knight_1_1_pl|Кларгус
+trp_knight_1_2|Дэлинард
+trp_knight_1_2_pl|Дэлинард
+trp_knight_1_3|Харингоз
+trp_knight_1_3_pl|Харингоз
+trp_knight_1_4|Клаис
+trp_knight_1_4_pl|Клаис
+trp_knight_1_5|Деглан
+trp_knight_1_5_pl|Деглан
+trp_knight_1_6|Тредиан
+trp_knight_1_6_pl|Тредиан
+trp_knight_1_7|Грейнвад
+trp_knight_1_7_pl|Грейнвад
+trp_knight_1_8|Руис
+trp_knight_1_8_pl|Руис
+trp_knight_1_9|Плаис
+trp_knight_1_9_pl|Плаис
+trp_knight_1_10|Мирчауд
+trp_knight_1_10_pl|Мирчауд
+trp_knight_1_11|Стамар
+trp_knight_1_11_pl|Стамар
+trp_knight_1_12|Мелтор
+trp_knight_1_12_pl|Мелтор
+trp_knight_1_13|Беранз
+trp_knight_1_13_pl|Беранз
+trp_knight_1_14|Рафард
+trp_knight_1_14_pl|Рафард
+trp_knight_1_15|Регас
+trp_knight_1_15_pl|Регас
+trp_knight_1_16|Девлиан
+trp_knight_1_16_pl|Девлиан
+trp_knight_1_17|Рафарч
+trp_knight_1_17_pl|Рафарч
+trp_knight_1_18|Рочабарз
+trp_knight_1_18_pl|Рочабарз
+trp_knight_1_19|Деспин
+trp_knight_1_19_pl|Деспин
+trp_knight_1_20|Тредиан
+trp_knight_1_20_pl|Тредиан
+trp_knight_2_1|Вулдрат
+trp_knight_2_1_pl|Вулдрат
+trp_knight_2_2|Нальдера
+trp_knight_2_2_pl|Нальдера
+trp_knight_2_3|Мерига
+trp_knight_2_3_pl|Мерига
+trp_knight_2_4|Хавел
+trp_knight_2_4_pl|Хавел
+trp_knight_2_5|Дору
+trp_knight_2_5_pl|Дору
+trp_knight_2_6|Белгару
+trp_knight_2_6_pl|Белгару
+trp_knight_2_7|Ральча
+trp_knight_2_7_pl|Ральча
+trp_knight_2_8|Влан
+trp_knight_2_8_pl|Влан
+trp_knight_2_9|Млеза
+trp_knight_2_9_pl|Млеза
+trp_knight_2_10|Нелаг
+trp_knight_2_10_pl|Нелаг
+trp_knight_2_11|Крахаск
+trp_knight_2_11_pl|Крахаск
+trp_knight_2_12|Брача
+trp_knight_2_12_pl|Брача
+trp_knight_2_13|Друли
+trp_knight_2_13_pl|Друли
+trp_knight_2_14|Мармун
+trp_knight_2_14_pl|Мармун
+trp_knight_2_15|Гастия
+trp_knight_2_15_pl|Гастия
+trp_knight_2_16|Хариш
+trp_knight_2_16_pl|Хариш
+trp_knight_2_17|Тайза
+trp_knight_2_17_pl|Тайза
+trp_knight_2_18|Валишин
+trp_knight_2_18_pl|Валишин
+trp_knight_2_19|Рудин
+trp_knight_2_19_pl|Рудин
+trp_knight_2_20|Кумила
+trp_knight_2_20_pl|Кумила
+trp_knight_3_1|Алагур
+trp_knight_3_1_pl|Алагур
+trp_knight_3_2|Тонжу
+trp_knight_3_2_pl|Тонжу
+trp_knight_3_3|Белир
+trp_knight_3_3_pl|Белир
+trp_knight_3_4|Асуган
+trp_knight_3_4_pl|Асуган
+trp_knight_3_5|Брула
+trp_knight_3_5_pl|Брула
+trp_knight_3_6|Имирза
+trp_knight_3_6_pl|Имирза
+trp_knight_3_7|Урумуда
+trp_knight_3_7_pl|Урумуда
+trp_knight_3_8|Крамук
+trp_knight_3_8_pl|Крамук
+trp_knight_3_9|Чаука
+trp_knight_3_9_pl|Чаука
+trp_knight_3_10|Себула
+trp_knight_3_10_pl|Себула
+trp_knight_3_11|Тулуг
+trp_knight_3_11_pl|Тулуг
+trp_knight_3_12|Насугей
+trp_knight_3_12_pl|Насугей
+trp_knight_3_13|Урубай
+trp_knight_3_13_pl|Урубай
+trp_knight_3_14|Хугу
+trp_knight_3_14_pl|Хугу
+trp_knight_3_15|Тансугай
+trp_knight_3_15_pl|Тансугай
+trp_knight_3_16|Тирида
+trp_knight_3_16_pl|Тирида
+trp_knight_3_17|Улусамай
+trp_knight_3_17_pl|Улусамай
+trp_knight_3_18|Карабан
+trp_knight_3_18_pl|Карабан
+trp_knight_3_19|Акадан
+trp_knight_3_19_pl|Акадан
+trp_knight_3_20|Дундуш
+trp_knight_3_20_pl|Дундуш
+trp_knight_4_1|Айдин
+trp_knight_4_1_pl|Айдин
+trp_knight_4_2|Айрас
+trp_knight_4_2_pl|Айрас
+trp_knight_4_3|Олаф
+trp_knight_4_3_pl|Олаф
+trp_knight_4_4|Рамальд
+trp_knight_4_4_pl|Рамальд
+trp_knight_4_5|Турия
+trp_knight_4_5_pl|Турия
+trp_knight_4_6|Гундур
+trp_knight_4_6_pl|Гундур
+trp_knight_4_7|Гаральд
+trp_knight_4_7_pl|Гаральд
+trp_knight_4_8|Кудар
+trp_knight_4_8_pl|Кудар
+trp_knight_4_9|Гаеда
+trp_knight_4_9_pl|Гаеда
+trp_knight_4_10|Турегор
+trp_knight_4_10_pl|Турегор
+trp_knight_4_11|Логарсон
+trp_knight_4_11_pl|Логарсон
+trp_knight_4_12|Айрик
+trp_knight_4_12_pl|Айрик
+trp_knight_4_13|Фаарн
+trp_knight_4_13_pl|Фаарн
+trp_knight_4_14|Бальбо
+trp_knight_4_14_pl|Бальбо
+trp_knight_4_15|Райек
+trp_knight_4_15_pl|Райек
+trp_knight_4_16|Диригун
+trp_knight_4_16_pl|Диригун
+trp_knight_4_17|Марайир
+trp_knight_4_17_pl|Марайир
+trp_knight_4_18|Герт
+trp_knight_4_18_pl|Герт
+trp_knight_4_19|Сурдун
+trp_knight_4_19_pl|Сурдун
+trp_knight_4_20|Герлад
+trp_knight_4_20_pl|Герлад
+trp_knight_5_1|Матеас
+trp_knight_5_1_pl|Матеас
+trp_knight_5_2|Гутланс
+trp_knight_5_2_pl|Гутланс
+trp_knight_5_3|Ларуген
+trp_knight_5_3_pl|Ларуген
+trp_knight_5_4|Райкс
+trp_knight_5_4_pl|Райкс
+trp_knight_5_5|Реланд
+trp_knight_5_5_pl|Реланд
+trp_knight_5_6|Тархиас
+trp_knight_5_6_pl|Тархиас
+trp_knight_5_7|Гармалл
+trp_knight_5_7_pl|Гармалл
+trp_knight_5_8|Талбар
+trp_knight_5_8_pl|Талбар
+trp_knight_5_9|Реймус
+trp_knight_5_9_pl|Реймус
+trp_knight_5_10|Фальцевор
+trp_knight_5_10_pl|Фальцевор
+trp_knight_5_11|Этроск
+trp_knight_5_11_pl|Этроск
+trp_knight_5_12|Курниас
+trp_knight_5_12_pl|Курниас
+trp_knight_5_13|Пеланьяр
+trp_knight_5_13_pl|Пеланьяр
+trp_knight_5_14|Трибидан
+trp_knight_5_14_pl|Трибидан
+trp_knight_5_15|Герлуш
+trp_knight_5_15_pl|Герлуш
+trp_knight_5_16|Фудрейм
+trp_knight_5_16_pl|Фудрейм
+trp_knight_5_17|Нилча
+trp_knight_5_17_pl|Нилча
+trp_knight_5_18|Фрайчин
+trp_knight_5_18_pl|Фрайчин
+trp_knight_5_19|Тримба
+trp_knight_5_19_pl|Тримба
+trp_knight_5_20|Рейшин
+trp_knight_5_20_pl|Рейшин
+trp_knight_6_1|Луквайс
+trp_knight_6_1_pl|Луквайс
+trp_knight_6_2|Хамезан
+trp_knight_6_2_pl|Хамезан
+trp_knight_6_3|Атис
+trp_knight_6_3_pl|Атис
+trp_knight_6_4|Нумас
+trp_knight_6_4_pl|Нумас
+trp_knight_6_5|Мундхалир
+trp_knight_6_5_pl|Мундхалир
+trp_knight_6_6|Ганава
+trp_knight_6_6_pl|Ганава
+trp_knight_6_7|Нуам
+trp_knight_6_7_pl|Нуам
+trp_knight_6_8|Диюл
+trp_knight_6_8_pl|Диюл
+trp_knight_6_9|Лакхем
+trp_knight_6_9_pl|Лакхем
+trp_knight_6_10|Гулласен
+trp_knight_6_10_pl|Гулласен
+trp_knight_6_11|Азадун
+trp_knight_6_11_pl|Азадун
+trp_knight_6_12|Кирас
+trp_knight_6_12_pl|Кирас
+trp_knight_6_13|Амдар
+trp_knight_6_13_pl|Амдар
+trp_knight_6_14|Хиван
+trp_knight_6_14_pl|Хиван
+trp_knight_6_15|Мухнир
+trp_knight_6_15_pl|Мухнир
+trp_knight_6_16|Аям
+trp_knight_6_16_pl|Аям
+trp_knight_6_17|Раддоун
+trp_knight_6_17_pl|Раддоун
+trp_knight_6_18|Тилимсал
+trp_knight_6_18_pl|Тилимсан
+trp_knight_6_19|Дашвал
+trp_knight_6_19_pl|Дашвал
+trp_knight_6_20|Билия
+trp_knight_6_20_pl|Билия
+trp_kingdom_1_pretender|Леди Изолла де Суно
+trp_kingdom_1_pretender_pl|Kingdom 1 Lord
+trp_kingdom_2_pretender|Принц Вальдым-Бастард
+trp_kingdom_2_pretender_pl|Kingdom 2 Lord
+trp_kingdom_3_pretender|Дустум-хан
+trp_kingdom_3_pretender_pl|Kingdom 3 Lord
+trp_kingdom_4_pretender|Летвин Странник
+trp_kingdom_4_pretender_pl|Kingdom 4 Lord
+trp_kingdom_5_pretender|Лорд Кастор де Велука
+trp_kingdom_5_pretender_pl|Kingdom 5 Lord
+trp_kingdom_6_pretender|Арва
+trp_kingdom_6_pretender_pl|Арва
+trp_knight_1_1_wife|Леди Анна
+trp_knight_1_1_wife_pl|knight 1 1 wife
+trp_kingdom_1_lady_1|Леди Анна
+trp_kingdom_1_lady_1_pl|Леди Анна
+trp_kingdom_1_lady_2|Леди Нельда
+trp_kingdom_1_lady_2_pl|Леди Нельда
+trp_knight_1_lady_3|Леди Бэлла
+trp_knight_1_lady_3_pl|Леди Бэлла
+trp_knight_1_lady_4|Леди Елина
+trp_knight_1_lady_4_pl|Леди Елина
+trp_kingdom_l_lady_5|Леди Констанис
+trp_kingdom_l_lady_5_pl|Леди Констанис
+trp_kingdom_1_lady_6|Леди Вера
+trp_kingdom_1_lady_6_pl|Леди Вера
+trp_kingdom_1_lady_7|Леди Ауберина
+trp_kingdom_1_lady_7_pl|Леди Ауберина
+trp_kingdom_1_lady_8|Леди Тибал
+trp_kingdom_1_lady_8_pl|Леди Тибал
+trp_kingdom_1_lady_9|Леди Магар
+trp_kingdom_1_lady_9_pl|Леди Магар
+trp_kingdom_1_lady_10|Леди Зедоса
+trp_kingdom_1_lady_10_pl|Леди Зедоса
+trp_kingdom_1_lady_11|Леди Мелисар
+trp_kingdom_1_lady_11_pl|Леди Мелисар
+trp_kingdom_1_lady_12|Леди Ирена
+trp_kingdom_1_lady_12_pl|Леди Ирена
+trp_kingdom_l_lady_13|Леди Филенна
+trp_kingdom_l_lady_13_pl|Леди Филенна
+trp_kingdom_1_lady_14|Леди Сонадель
+trp_kingdom_1_lady_14_pl|Леди Сонадель
+trp_kingdom_1_lady_15|Леди Боадила
+trp_kingdom_1_lady_15_pl|Леди Боадила
+trp_kingdom_1_lady_16|Леди Элис
+trp_kingdom_1_lady_16_pl|Леди Элис
+trp_kingdom_1_lady_17|Леди Джоана
+trp_kingdom_1_lady_17_pl|Леди Джоана
+trp_kingdom_1_lady_18|Леди Бернатис
+trp_kingdom_1_lady_18_pl|Леди Бернатис
+trp_kingdom_1_lady_19|Леди Энриката
+trp_kingdom_1_lady_19_pl|Леди Энриката
+trp_kingdom_1_lady_20|Леди Гает
+trp_kingdom_1_lady_20_pl|Леди Гает
+trp_kingdom_2_lady_1|Леди Юнита
+trp_kingdom_2_lady_1_pl|Леди Юнита
+trp_kingdom_2_lady_2|Леди Катя
+trp_kingdom_2_lady_2_pl|Леди Катя
+trp_kingdom_2_lady_3|Леди Сеомис
+trp_kingdom_2_lady_3_pl|Леди Сеомис
+trp_kingdom_2_lady_4|Леди Дрина
+trp_kingdom_2_lady_4_pl|Леди Дрина
+trp_kingdom_2_lady_5|Леди Нэша
+trp_kingdom_2_lady_5_pl|Леди Нэша
+trp_kingdom_2_lady_6|Леди Табаз
+trp_kingdom_2_lady_6_pl|Леди Табаз
+trp_kingdom_2_lady_7|Леди Пелика
+trp_kingdom_2_lady_7_pl|Леди Пелика
+trp_kingdom_2_lady_8|Леди Харис
+trp_kingdom_2_lady_8_pl|Леди Харис
+trp_kingdom_2_lady_9|Леди Ваен
+trp_kingdom_2_lady_9_pl|Леди Ваен
+trp_kingdom_2_lady_10|Леди Жозефина
+trp_kingdom_2_lady_10_pl|Леди Жозефина
+trp_kingdom_2_lady_11|Леди Телайна
+trp_kingdom_2_lady_11_pl|Леди Телайна
+trp_kingdom_2_lady_12|Леди Олексия
+trp_kingdom_2_lady_12_pl|Леди Олексия
+trp_kingdom_2_lady_13|Леди Майнз
+trp_kingdom_2_lady_13_pl|Леди Майнз
+trp_kingdom_2_lady_14|Леди Акилина
+trp_kingdom_2_lady_14_pl|Леди Акилина
+trp_kingdom_2_lady_15|Леди Сепана
+trp_kingdom_2_lady_15_pl|Леди Сепана
+trp_kingdom_2_lady_16|Леди Ларина
+trp_kingdom_2_lady_16_pl|Леди Ларина
+trp_kingdom_2_lady_17|Леди Сихаван
+trp_kingdom_2_lady_17_pl|Леди Сихаван
+trp_kingdom_2_lady_18|Леди Еренчина
+trp_kingdom_2_lady_18_pl|Леди Еренчина
+trp_kingdom_2_lady_19|Леди Тамар
+trp_kingdom_2_lady_19_pl|Леди Тамар
+trp_kingdom_2_lady_20|Леди Валка
+trp_kingdom_2_lady_20_pl|Леди Валка
+trp_kingdom_3_lady_1|Леди Боржи
+trp_kingdom_3_lady_1_pl|Леди Боржи
+trp_kingdom_3_lady_2|Леди Туан
+trp_kingdom_3_lady_2_pl|Леди Туан
+trp_kingdom_3_lady_3|Леди Махраз
+trp_kingdom_3_lady_3_pl|Леди Махраз
+trp_kingdom_3_lady_4|Леди Аяси
+trp_kingdom_3_lady_4_pl|Леди Аяси
+trp_kingdom_3_lady_5|Леди Рейвин
+trp_kingdom_3_lady_5_pl|Леди Рейвин
+trp_kingdom_3_lady_6|Леди Руха
+trp_kingdom_3_lady_6_pl|Леди Руха
+trp_kingdom_3_lady_7|Леди Чедина
+trp_kingdom_3_lady_7_pl|Леди Чедина
+trp_kingdom_3_lady_8|Леди Кефра
+trp_kingdom_3_lady_8_pl|Леди Кефра
+trp_kingdom_3_lady_9|Леди Нирваз
+trp_kingdom_3_lady_9_pl|Леди Нирваз
+trp_kingdom_3_lady_10|Леди Дилия
+trp_kingdom_3_lady_10_pl|Леди Дилия
+trp_kingdom_3_lady_11|Леди Селик
+trp_kingdom_3_lady_11_pl|Леди Селик
+trp_kingdom_3_lady_12|Леди Талаза
+trp_kingdom_3_lady_12_pl|Леди Талаза
+trp_kingdom_3_lady_13|Леди Ясрин
+trp_kingdom_3_lady_13_pl|Леди Ясрин
+trp_kingdom_3_lady_14|Леди Нада
+trp_kingdom_3_lady_14_pl|Леди Нада
+trp_kingdom_3_lady_15|Леди Зенур
+trp_kingdom_3_lady_15_pl|Леди Зенур
+trp_kingdom_3_lady_16|Леди Арджис
+trp_kingdom_3_lady_16_pl|Леди Арджис
+trp_kingdom_3_lady_17|Леди Аяхан
+trp_kingdom_3_lady_17_pl|Леди Аяхан
+trp_kingdom_3_lady_18|Леди Кутала
+trp_kingdom_3_lady_18_pl|Леди Кутала
+trp_kingdom_3_lady_19|Леди Хиндал
+trp_kingdom_3_lady_19_pl|Леди Хиндал
+trp_kingdom_3_lady_20|Леди Мичит
+trp_kingdom_3_lady_20_pl|Леди Мичит
+trp_kingdom_4_lady_1|Леди Жадез
+trp_kingdom_4_lady_1_pl|Леди Жадез
+trp_kingdom_4_lady_2|Леди Миар
+trp_kingdom_4_lady_2_pl|Леди Миар
+trp_kingdom_4_lady_3|Леди Дриа
+trp_kingdom_4_lady_3_pl|Леди Дриа
+trp_kingdom_4_lady_4|Леди Глунди
+trp_kingdom_4_lady_4_pl|Леди Глунди
+trp_kingdom_4_lady_5|Леди Локи
+trp_kingdom_4_lady_5_pl|Леди Локи
+trp_kingdom_4_lady_6|Леди Брин
+trp_kingdom_4_lady_6_pl|Леди Брин
+trp_kingdom_4_lady_7|Леди Ейра
+trp_kingdom_4_lady_7_pl|Леди Ейра
+trp_kingdom_4_lady_8|Леди Тера
+trp_kingdom_4_lady_8_pl|Леди Тера
+trp_kingdom_4_lady_9|Леди Хилда
+trp_kingdom_4_lady_9_pl|Леди Хилда
+trp_kingdom_4_lady_10|Леди Ендигрид
+trp_kingdom_4_lady_10_pl|Леди Ендигрид
+trp_kingdom_4_lady_11|Леди Хираса
+trp_kingdom_4_lady_11_pl|Леди Хираса
+trp_kingdom_4_lady_12|Леди Свипул
+trp_kingdom_4_lady_12_pl|Леди Свипул
+trp_kingdom_4_lady_13|Леди Инга
+trp_kingdom_4_lady_13_pl|Леди Инга
+trp_kingdom_4_lady_14|Леди Кетели
+trp_kingdom_4_lady_14_pl|Леди Кетели
+trp_kingdom_4_lady_15|Леди Ейлиф
+trp_kingdom_4_lady_15_pl|Леди Ейлиф
+trp_kingdom_4_lady_16|Леди Гудрун
+trp_kingdom_4_lady_16_pl|Леди Гудрун
+trp_kingdom_4_lady_17|Леди Бергит
+trp_kingdom_4_lady_17_pl|Леди Бергит
+trp_kingdom_4_lady_18|Леди Аеза
+trp_kingdom_4_lady_18_pl|Леди Аеза
+trp_kingdom_4_lady_19|Леди Альфра
+trp_kingdom_4_lady_19_pl|Леди Альфра
+trp_kingdom_4_lady_20|Леди Африд
+trp_kingdom_4_lady_20_pl|Леди Африд
+trp_kingdom_5_lady_1|Леди Брина
+trp_kingdom_5_lady_1_pl|Леди Брина
+trp_kingdom_5_lady_2|Леди Элина
+trp_kingdom_5_lady_2_pl|Леди Элина
+trp_kingdom_5_lady_3|Леди Анет
+trp_kingdom_5_lady_3_pl|Леди Анет
+trp_kingdom_5_lady_4|Леди Рида
+trp_kingdom_5_lady_4_pl|Леди Рида
+trp_kingdom_5_lady_5|Леди Саратен
+trp_kingdom_5_lady_5_pl|Леди Саратен
+trp_kingdom_5_lady_6|Леди Баотея
+trp_kingdom_5_lady_6_pl|Леди Баотея
+trp_kingdom_5_lady_7|Леди Элеандра
+trp_kingdom_5_lady_7_pl|Леди Элеандра
+trp_kingdom_5_lady_8|Леди Мерасед
+trp_kingdom_5_lady_8_pl|Леди Мерасед
+trp_kingdom_5_lady_9|Леди Аделиса
+trp_kingdom_5_lady_9_pl|Леди Аделиса
+trp_kingdom_5_lady_10|Леди Калантина
+trp_kingdom_5_lady_10_pl|Леди Калантина
+trp_kingdom_5_lady_11|Леди Форбеса
+trp_kingdom_5_lady_11_pl|Леди Форбеса
+trp_kingdom_5_lady_12|Леди Клаудора
+trp_kingdom_5_lady_12_pl|Леди Клаудора
+trp_kingdom_5_lady_13|Леди Анаис
+trp_kingdom_5_lady_13_pl|Леди Анаис
+trp_kingdom_5_lady_14|Леди Мирая
+trp_kingdom_5_lady_14_pl|Леди Мирая
+trp_kingdom_5_lady_15|Леди Агасия
+trp_kingdom_5_lady_15_pl|Леди Агасия
+trp_kingdom_5_lady_16|Леди Генейва
+trp_kingdom_5_lady_16_pl|Леди Генейва
+trp_kingdom_5_lady_17|Леди Гвенаэль
+trp_kingdom_5_lady_17_pl|Леди Гвенаель
+trp_kingdom_5_lady_18|Леди Исует
+trp_kingdom_5_lady_18_pl|Леди Исует
+trp_kingdom_5_lady_19|Леди Эллиан
+trp_kingdom_5_lady_19_pl|Леди Эллиан
+trp_kingdom_5_lady_20|Леди Тимети
+trp_kingdom_5_lady_20_pl|Леди Тимети
+trp_kingdom_6_lady_1|Леди Райма
+trp_kingdom_6_lady_1_pl|Леди Райма
+trp_kingdom_6_lady_2|Леди Занайк
+trp_kingdom_6_lady_2_pl|Леди Занайк
+trp_kingdom_6_lady_3|Леди Сулаха
+trp_kingdom_6_lady_3_pl|Леди Сулаха
+trp_kingdom_6_lady_4|Леди Шаза
+trp_kingdom_6_lady_4_pl|Леди Шаза
+trp_kingdom_6_lady_5|Леди Бавзин
+trp_kingdom_6_lady_5_pl|Леди Бавзин
+trp_kingdom_6_lady_6|Леди Махайл
+trp_kingdom_6_lady_6_pl|Леди Махайл
+trp_kingdom_6_lady_7|Леди Исна
+trp_kingdom_6_lady_7_pl|Леди Исна
+trp_kingdom_6_lady_8|Леди Сияфан
+trp_kingdom_6_lady_8_pl|Леди Сияфан
+trp_kingdom_6_lady_9|Леди Ифар
+trp_kingdom_6_lady_9_pl|Леди Ифар
+trp_kingdom_6_lady_10|Леди Ясмин
+trp_kingdom_6_lady_10_pl|Леди Ясмин
+trp_kingdom_6_lady_11|Леди Дюла
+trp_kingdom_6_lady_11_pl|Леди Дюла
+trp_kingdom_6_lady_12|Леди Рува
+trp_kingdom_6_lady_12_pl|Леди Рува
+trp_kingdom_6_lady_13|Леди Луква
+trp_kingdom_6_lady_13_pl|Леди Луква
+trp_kingdom_6_lady_14|Леди Зандина
+trp_kingdom_6_lady_14_pl|Леди Зандина
+trp_kingdom_6_lady_15|Леди Лула
+trp_kingdom_6_lady_15_pl|Леди Лула
+trp_kingdom_6_lady_16|Леди Захара
+trp_kingdom_6_lady_16_pl|Леди Захара
+trp_kingdom_6_lady_17|Леди Сафия
+trp_kingdom_6_lady_17_pl|Леди Сафия
+trp_kingdom_6_lady_18|Леди Халиса
+trp_kingdom_6_lady_18_pl|Леди Халиса
+trp_kingdom_6_lady_19|Леди Янаб
+trp_kingdom_6_lady_19_pl|Леди Янаб
+trp_kingdom_6_lady_20|Леди Сур
+trp_kingdom_6_lady_20_pl|Леди Сур
+trp_town_1_arena_master|Мастер арены
+trp_town_2_arena_master|Мастер арены
+trp_town_3_arena_master|Мастер арены
+trp_town_4_arena_master|Мастер арены
+trp_town_5_arena_master|Мастер арены
+trp_town_6_arena_master|Мастер арены
+trp_town_7_arena_master|Мастер арены
+trp_town_8_arena_master|Мастер арены
+trp_town_9_arena_master|Мастер арены
+trp_town_10_arena_master|Мастер арены
+trp_town_11_arena_master|Мастер арены
+trp_town_12_arena_master|Мастер арены
+trp_town_13_arena_master|Мастер арены
+trp_town_14_arena_master|Мастер арены
+trp_town_15_arena_master|Мастер арены
+trp_town_16_arena_master|Мастер арены
+trp_town_17_arena_master|Мастер арены
+trp_town_18_arena_master|Мастер арены
+trp_town_19_arena_master|Мастер арены
+trp_town_20_arena_master|Мастер арены
+trp_town_21_arena_master|Мастер арены
+trp_town_22_arena_master|Мастер арены
+trp_town_1_armorer|Доспешник
+trp_town_2_armorer|Доспешник
+trp_town_3_armorer|Доспешник
+trp_town_4_armorer|Доспешник
+trp_town_5_armorer|Доспешник
+trp_town_6_armorer|Доспешник
+trp_town_7_armorer|Доспешник
+trp_town_8_armorer|Доспешник
+trp_town_9_armorer|Доспешник
+trp_town_10_armorer|Доспешник
+trp_town_11_armorer|Доспешник
+trp_town_12_armorer|Доспешник
+trp_town_13_armorer|Доспешник
+trp_town_14_armorer|Доспешник
+trp_town_15_armorer|Доспешник
+trp_town_16_armorer|Доспешник
+trp_town_17_armorer|Доспешник
+trp_town_18_armorer|Доспешник
+trp_town_19_armorer|Доспешник
+trp_town_20_armorer|Доспешник
+trp_town_21_armorer|Доспешник
+trp_town_22_armorer|Доспешник
+trp_town_1_weaponsmith|Оружейник
+trp_town_2_weaponsmith|Оружейник
+trp_town_3_weaponsmith|Оружейник
+trp_town_4_weaponsmith|Оружейник
+trp_town_5_weaponsmith|Оружейник
+trp_town_6_weaponsmith|Оружейник
+trp_town_7_weaponsmith|Оружейник
+trp_town_8_weaponsmith|Оружейник
+trp_town_9_weaponsmith|Оружейник
+trp_town_10_weaponsmith|Оружейник
+trp_town_11_weaponsmith|Оружейник
+trp_town_12_weaponsmith|Оружейник
+trp_town_13_weaponsmith|Оружейник
+trp_town_14_weaponsmith|Оружейник
+trp_town_15_weaponsmith|Оружейник
+trp_town_16_weaponsmith|Оружейник
+trp_town_17_weaponsmith|Оружейник
+trp_town_18_weaponsmith|Оружейник
+trp_town_19_weaponsmith|Оружейник
+trp_town_20_weaponsmith|Оружейник
+trp_town_21_weaponsmith|Оружейник
+trp_town_22_weaponsmith|Оружейник
+trp_town_1_tavernkeeper|Тавернщик
+trp_town_2_tavernkeeper|Тавернщик
+trp_town_3_tavernkeeper|Тавернщик
+trp_town_4_tavernkeeper|Тавернщик
+trp_town_5_tavernkeeper|Тавернщик
+trp_town_6_tavernkeeper|Тавернщик
+trp_town_7_tavernkeeper|Тавернщик
+trp_town_8_tavernkeeper|Тавернщик
+trp_town_9_tavernkeeper|Тавернщик
+trp_town_10_tavernkeeper|Тавернщик
+trp_town_11_tavernkeeper|Тавернщик
+trp_town_12_tavernkeeper|Тавернщик
+trp_town_13_tavernkeeper|Тавернщик
+trp_town_14_tavernkeeper|Тавернщик
+trp_town_15_tavernkeeper|Тавернщик
+trp_town_16_tavernkeeper|Тавернщик
+trp_town_17_tavernkeeper|Тавернщик
+trp_town_18_tavernkeeper|Тавернщик
+trp_town_19_tavernkeeper|Тавернщик
+trp_town_20_tavernkeeper|Тавернщик
+trp_town_21_tavernkeeper|Тавернщик
+trp_town_22_tavernkeeper|Тавернщик
+trp_town_1_merchant|Торговец
+trp_town_2_merchant|Торговец
+trp_town_3_merchant|Торговец
+trp_town_4_merchant|Торговец
+trp_town_5_merchant|Торговец
+trp_town_6_merchant|Торговец
+trp_town_7_merchant|Торговец
+trp_town_8_merchant|Торговец
+trp_town_9_merchant|Торговец
+trp_town_10_merchant|Торговец
+trp_town_11_merchant|Торговец
+trp_town_12_merchant|Торговец
+trp_town_13_merchant|Торговец
+trp_town_14_merchant|Торговец
+trp_town_15_merchant|Торговец
+trp_town_16_merchant|Торговец
+trp_town_17_merchant|Торговец
+trp_town_18_merchant|Торговец
+trp_town_19_merchant|Торговец
+trp_town_20_merchant|Торговец
+trp_town_21_merchant|Торговец
+trp_town_22_merchant|Торговец
+trp_salt_mine_merchant|Барезан
+trp_salt_mine_merchant_pl|Барезан
+trp_town_1_horse_merchant|Табунщик
+trp_town_2_horse_merchant|Табунщик
+trp_town_3_horse_merchant|Табунщик
+trp_town_4_horse_merchant|Табунщик
+trp_town_5_horse_merchant|Табунщик
+trp_town_6_horse_merchant|Табунщик
+trp_town_7_horse_merchant|Табунщик
+trp_town_8_horse_merchant|Табунщик
+trp_town_9_horse_merchant|Табунщик
+trp_town_10_horse_merchant|Табунщик
+trp_town_11_horse_merchant|Табунщик
+trp_town_12_horse_merchant|Табунщик
+trp_town_13_horse_merchant|Табунщик
+trp_town_14_horse_merchant|Табунщик
+trp_town_15_horse_merchant|Табунщик
+trp_town_16_horse_merchant|Табунщик
+trp_town_17_horse_merchant|Табунщик
+trp_town_18_horse_merchant|Табунщик
+trp_town_19_horse_merchant|Табунщик
+trp_town_20_horse_merchant|Табунщик
+trp_town_21_horse_merchant|Табунщик
+trp_town_22_horse_merchant|Табунщик
+trp_town_1_mayor|Гильдмастер
+trp_town_2_mayor|Гильдмастер
+trp_town_3_mayor|Гильдмастер
+trp_town_4_mayor|Гильдмастер
+trp_town_5_mayor|Гильдмастер
+trp_town_6_mayor|Гильдмастер
+trp_town_7_mayor|Гильдмастер
+trp_town_8_mayor|Гильдмастер
+trp_town_9_mayor|Гильдмастер
+trp_town_10_mayor|Гильдмастер
+trp_town_11_mayor|Гильдмастер
+trp_town_12_mayor|Гильдмастер
+trp_town_13_mayor|Гильдмастер
+trp_town_14_mayor|Гильдмастер
+trp_town_15_mayor|Гильдмастер
+trp_town_16_mayor|Гильдмастер
+trp_town_17_mayor|Гильдмастер
+trp_town_18_mayor|Гильдмастер
+trp_town_19_mayor|Гильдмастер
+trp_town_20_mayor|Гильдмастер
+trp_town_21_mayor|Гильдмастер
+trp_town_22_mayor|Гильдмастер
+trp_village_1_elder|Староста
+trp_village_2_elder|Староста
+trp_village_3_elder|Староста
+trp_village_4_elder|Староста
+trp_village_5_elder|Староста
+trp_village_6_elder|Староста
+trp_village_7_elder|Староста
+trp_village_8_elder|Староста
+trp_village_9_elder|Староста
+trp_village_10_elder|Староста
+trp_village_11_elder|Староста
+trp_village_12_elder|Староста
+trp_village_13_elder|Староста
+trp_village_14_elder|Староста
+trp_village_15_elder|Староста
+trp_village_16_elder|Староста
+trp_village_17_elder|Староста
+trp_village_18_elder|Староста
+trp_village_19_elder|Староста
+trp_village_20_elder|Староста
+trp_village_21_elder|Староста
+trp_village_22_elder|Староста
+trp_village_23_elder|Староста
+trp_village_24_elder|Староста
+trp_village_25_elder|Староста
+trp_village_26_elder|Староста
+trp_village_27_elder|Староста
+trp_village_28_elder|Староста
+trp_village_29_elder|Староста
+trp_village_30_elder|Староста
+trp_village_31_elder|Староста
+trp_village_32_elder|Староста
+trp_village_33_elder|Староста
+trp_village_34_elder|Староста
+trp_village_35_elder|Староста
+trp_village_36_elder|Староста
+trp_village_37_elder|Староста
+trp_village_38_elder|Староста
+trp_village_39_elder|Староста
+trp_village_40_elder|Староста
+trp_village_41_elder|Староста
+trp_village_42_elder|Староста
+trp_village_43_elder|Староста
+trp_village_44_elder|Староста
+trp_village_45_elder|Староста
+trp_village_46_elder|Староста
+trp_village_47_elder|Староста
+trp_village_48_elder|Староста
+trp_village_49_elder|Староста
+trp_village_50_elder|Староста
+trp_village_51_elder|Староста
+trp_village_52_elder|Староста
+trp_village_53_elder|Староста
+trp_village_54_elder|Староста
+trp_village_55_elder|Староста
+trp_village_56_elder|Староста
+trp_village_57_elder|Староста
+trp_village_58_elder|Староста
+trp_village_59_elder|Староста
+trp_village_60_elder|Староста
+trp_village_61_elder|Староста
+trp_village_62_elder|Староста
+trp_village_63_elder|Староста
+trp_village_64_elder|Староста
+trp_village_65_elder|Староста
+trp_village_66_elder|Староста
+trp_village_67_elder|Староста
+trp_village_68_elder|Староста
+trp_village_69_elder|Староста
+trp_village_70_elder|Староста
+trp_village_71_elder|Староста
+trp_village_72_elder|Староста
+trp_village_73_elder|Староста
+trp_village_74_elder|Староста
+trp_village_75_elder|Староста
+trp_village_76_elder|Староста
+trp_village_77_elder|Староста
+trp_village_78_elder|Староста
+trp_village_79_elder|Староста
+trp_village_80_elder|Староста
+trp_village_81_elder|Староста
+trp_village_82_elder|Староста
+trp_village_83_elder|Староста
+trp_village_84_elder|Староста
+trp_village_85_elder|Староста
+trp_village_86_elder|Староста
+trp_village_87_elder|Староста
+trp_village_88_elder|Староста
+trp_village_89_elder|Староста
+trp_village_90_elder|Староста
+trp_village_91_elder|Староста
+trp_village_92_elder|Староста
+trp_village_93_elder|Староста
+trp_village_94_elder|Староста
+trp_village_95_elder|Староста
+trp_village_96_elder|Староста
+trp_village_97_elder|Староста
+trp_village_98_elder|Староста
+trp_village_99_elder|Староста
+trp_village_100_elder|Староста
+trp_village_101_elder|Староста
+trp_village_102_elder|Староста
+trp_village_103_elder|Староста
+trp_village_104_elder|Староста
+trp_village_105_elder|Староста
+trp_village_106_elder|Староста
+trp_village_107_elder|Староста
+trp_village_108_elder|Староста
+trp_village_109_elder|Староста
+trp_village_110_elder|Староста
+trp_merchants_end|merchants end
+trp_merchants_end_pl|merchants end
+trp_local_merchant|Местный торговец
+trp_local_merchant_pl|Местные торговцы
+trp_tax_rebel|Мятежный крестьянин
+trp_tax_rebel_pl|Мятежные крестьяне
+trp_trainee_peasant|Крестьянин
+trp_trainee_peasant_pl|Крестьяне
+trp_fugitive|Подозрительный тип
+trp_fugitive_pl|Подозрительные типы
+trp_belligerent_drunk|Пьяное чмо
+trp_belligerent_drunk_pl|Пьяное чмо
+trp_hired_assassin|Воинственный Дранк
+trp_hired_assassin_pl|Воинственный Дранк
+trp_fight_promoter|Грубо-выглядящий Характер
+trp_fight_promoter_pl|Грубо-выглядящий Характер
+trp_spy|Обычный горожанин
+trp_spy_pl|Обычные горожане
+trp_spy_partner|Неприметный горожанин
+trp_spy_partner_pl|Неприметные горожане
+trp_nurse_for_lady|Нянюшка
+trp_nurse_for_lady_pl|нянюшка
+trp_temporary_minister|Министр
+trp_temporary_minister_pl|Министр
+trp_swadian_crossbowman_multiplayer_ai|Арбалетчик-Свад
+trp_swadian_crossbowman_multiplayer_ai_pl|Арбалетчик-Свад
+trp_swadian_infantry_multiplayer_ai|Пехотинец-Свад
+trp_swadian_infantry_multiplayer_ai_pl|Пехотинец-Свад
+trp_swadian_man_at_arms_multiplayer_ai|Всадник-Свад
+trp_swadian_man_at_arms_multiplayer_ai_pl|Всадник-Свад
+trp_vaegir_archer_multiplayer_ai|Лучник-Вегир
+trp_vaegir_archer_multiplayer_ai_pl|Лучник-Вегир
+trp_vaegir_spearman_multiplayer_ai|Копейщик-Вегир
+trp_vaegir_spearman_multiplayer_ai_pl|Копейщик-Вегир
+trp_vaegir_horseman_multiplayer_ai|Всадник-Вегир
+trp_vaegir_horseman_multiplayer_ai_pl|Всадник-Вегир
+trp_khergit_dismounted_lancer_multiplayer_ai|Шайтан-Отступник-кергит
+trp_khergit_dismounted_lancer_multiplayer_ai_pl|Шайтан-Отступник-кергит
+trp_khergit_veteran_horse_archer_multiplayer_ai|Конный-лучник-кергит
+trp_khergit_veteran_horse_archer_multiplayer_ai_pl|Конный-лучник-кергит
+trp_khergit_lancer_multiplayer_ai|Шайтан-кергит
+trp_khergit_lancer_multiplayer_ai_pl|Шайтан-кергит
+trp_nord_veteran_multiplayer_ai|Копейщик-Норд
+trp_nord_veteran_multiplayer_ai_pl|Копейщик-Норд
+trp_nord_scout_multiplayer_ai|Скаут-Норд
+trp_nord_scout_multiplayer_ai_pl|Скаут-Норд
+trp_nord_archer_multiplayer_ai|Лучник-Норд
+trp_nord_archer_multiplayer_ai_pl|Лучник-Норд
+trp_rhodok_veteran_crossbowman_multiplayer_ai|Арбалетчик-Родок
+trp_rhodok_veteran_crossbowman_multiplayer_ai_pl|Арбалетчик-Родок
+trp_rhodok_veteran_spearman_multiplayer_ai|Копейщик-Родок
+trp_rhodok_veteran_spearman_multiplayer_ai_pl|Копейщик-Родок
+trp_rhodok_scout_multiplayer_ai|Скаут-Родок
+trp_rhodok_scout_multiplayer_ai_pl|Скаут-Родок
+trp_sarranid_infantry_multiplayer_ai|Пехотинец-Сарранид
+trp_sarranid_infantry_multiplayer_ai_pl|Пехотинец-Сарранид
+trp_sarranid_archer_multiplayer_ai|Лучник-Сарранид
+trp_sarranid_archer_multiplayer_ai_pl|Лучник-Сарранид
+trp_sarranid_horseman_multiplayer_ai|Всадник-Сарранид
+trp_sarranid_horseman_multiplayer_ai_pl|Всадник-Сарранид
+trp_swadian_crossbowman_multiplayer|Арбалетчик-Свад
+trp_swadian_crossbowman_multiplayer_pl|Арбалетчик-Свад
+trp_swadian_infantry_multiplayer|Пехотинец-Свад
+trp_swadian_infantry_multiplayer_pl|Пехотинец-Свад
+trp_swadian_man_at_arms_multiplayer|Всадник-Ветеран-Свад
+trp_swadian_man_at_arms_multiplayer_pl|Всадник-Ветеран-Свад
+trp_vaegir_archer_multiplayer|Лучник-Вегир
+trp_vaegir_archer_multiplayer_pl|Лучник-Вегир
+trp_vaegir_spearman_multiplayer|Копейщик-Вегир
+trp_vaegir_spearman_multiplayer_pl|Копейщик-Вегир
+trp_vaegir_horseman_multiplayer|Всадник-Вегир
+trp_vaegir_horseman_multiplayer_pl|Всадник-Вегир
+trp_khergit_veteran_horse_archer_multiplayer|Конный-Лучник-кергит
+trp_khergit_veteran_horse_archer_multiplayer_pl|Конный-Лучник-кергит
+trp_khergit_lancer_multiplayer|Шайтан-кергит
+trp_khergit_lancer_multiplayer_pl|Шайтан-кергит
+trp_nord_archer_multiplayer|Стрелок-Норд
+trp_nord_archer_multiplayer_pl|Стрелок-Норд
+trp_nord_veteran_multiplayer|Норд-Хускарл
+trp_nord_veteran_multiplayer_pl|Норд-Хускарл
+trp_nord_scout_multiplayer|Скаут-Норд
+trp_nord_scout_multiplayer_pl|Скаут-Норд
+trp_rhodok_veteran_crossbowman_multiplayer|Арбалетчик-Родок
+trp_rhodok_veteran_crossbowman_multiplayer_pl|Арбалетчик-Родок
+trp_rhodok_sergeant_multiplayer|Сержант-Родок
+trp_rhodok_sergeant_multiplayer_pl|Сержант-Родок
+trp_rhodok_horseman_multiplayer|Всадник-Родок
+trp_rhodok_horseman_multiplayer_pl|Всадник-Родок
+trp_sarranid_archer_multiplayer|Лучник-Сарранид
+trp_sarranid_archer_multiplayer_pl|Лучник-Сарранид
+trp_sarranid_footman_multiplayer|Копейщик-Сарранид
+trp_sarranid_footman_multiplayer_pl|Копейщик-Сарранид
+trp_sarranid_mamluke_multiplayer|Саранид-Мамлук
+trp_sarranid_mamluke_multiplayer_pl|Саранид-Мамлук
+trp_nurse|Медсестра
+trp_quick_battle_troop_1|Родриго де Браганса
+trp_quick_battle_troop_1_pl|Родриго де Браганса
+trp_quick_battle_troop_2|Юсиатра
+trp_quick_battle_troop_2_pl|Юсиатра
+trp_quick_battle_troop_3|Хеген
+trp_quick_battle_troop_3_pl|Хеген
+trp_quick_battle_troop_4|Конрад
+trp_quick_battle_troop_4_pl|Конрад
+trp_quick_battle_troop_5|Сверр
+trp_quick_battle_troop_5_pl|Сверр
+trp_quick_battle_troop_6|Борислав
+trp_quick_battle_troop_6_pl|Борислав
+trp_quick_battle_troop_7|Ставрос
+trp_quick_battle_troop_7_pl|Ставрос
+trp_quick_battle_troop_8|Гамара
+trp_quick_battle_troop_8_pl|Гамара
+trp_quick_battle_troop_9|Азрод
+trp_quick_battle_troop_9_pl|Азрод
+trp_quick_battle_troop_10|Зайра
+trp_quick_battle_troop_10_pl|Зайра
+trp_quick_battle_troop_11|Арго Сенднар
+trp_quick_battle_troop_11_pl|Арго Сенднар
+trp_tutorial_fighter_1|Новобранец
+trp_tutorial_fighter_1_pl|Новобранцы
+trp_tutorial_fighter_2|Новобранец
+trp_tutorial_fighter_2_pl|Новобранцы
+trp_tutorial_fighter_3|Легионер
+trp_tutorial_fighter_3_pl|Легионеры
+trp_tutorial_fighter_4|Ветеран Боец
+trp_tutorial_fighter_4_pl|Ветераны Боец
+trp_tutorial_archer_1|Лучник
+trp_tutorial_archer_1_pl|Лучники
+trp_tutorial_master_archer|Лучник Тренер
+trp_tutorial_master_archer_pl|Лучники Тренеры
+trp_tutorial_rider_1|Ездок
+trp_tutorial_rider_2|Конный Лучник
+trp_tutorial_master_horseman|Тренер верховой езды
+trp_tutorial_master_horseman_pl|Тренер верховой езды
+trp_swadian_merchant|Торговец из Правена
+trp_vaegir_merchant|Торговец из Рейвадина
+trp_khergit_merchant|Торговец из Тульги
+trp_nord_merchant|Торговец из Саргота
+trp_rhodok_merchant|Торговец из Джелкалы
+trp_sarranid_merchant|Торговец из Шариз
+trp_sea_raider_leader|Капитан Пиратов
+trp_sea_raider_leader_pl|Капитан Пиратов
+trp_looter_leader|Пираты
+trp_looter_leader_pl|Разбойники
+trp_bandit_leaders_end|Главарь бандитов
+trp_bandit_leaders_end_pl|Главарь бандитов
+trp_relative_of_merchant|Брат торговца
+trp_relative_of_merchants_end|Брат торговца
+trp_relative_of_merchants_end_pl|Брат торговца

@@ -1,0 +1,55 @@
+material 26
+manface_young 1824 faceshader_high_specular manface_young manface_1_aged man_normalmap none man_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+manface_young.LOD 263936 faceshader_simple manface_young manface_1_aged none none none 1.0
+0.0 0.0 0.0
+manface_young_2 1824 faceshader_high_specular manface_young_2 manface_2_aged man_normalmap none man_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+manface_young_2.LOD 263936 faceshader_simple manface_young_2 manface_2_aged none none none 1.0
+0.0 0.0 0.0
+manface_young_3 1824 faceshader_high_specular manface_young_3 manface_3_aged man_normalmap none man_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+manface_young_3.LOD 263936 faceshader_simple manface_young_3 manface_3_aged none none none 1.0
+0.0 0.0 0.0
+manface_midage 1824 faceshader_high_specular manface_midage manface_4_aged man_normalmap none man_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+manface_midage.LOD 263936 faceshader_simple manface_midage manface_4_aged none none none 1.0
+0.0 0.0 0.0
+manface_midage_2 1824 faceshader_high_specular manface_midage_2 manface_5_aged man_normalmap none man_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+manface_midage_2.LOD 263936 faceshader_simple manface_midage_2 manface_5_aged none none none 1.0
+0.0 0.0 0.0
+manface_rugged 1824 faceshader_high_specular manface_rugged manface_6_aged man_normalmap none man_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+manface_rugged.LOD 263936 faceshader_simple manface_rugged manface_6_aged none none none 1.0
+0.0 0.0 0.0
+manface_african 1824 faceshader_high_specular manface_african manface_african_old man_normalmap none man_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+manface_african.LOD 263936 faceshader_simple manface_african manface_african_old none none none 1.0
+0.0 0.0 0.0
+manface_7 1824 faceshader_high_specular manface_7 manface_7_aged man_normalmap none man_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+manface_7.LOD 263936 faceshader_simple manface_7 manface_7_aged none none none 1.0
+0.0 0.0 0.0
+womanface_a 1824 faceshader_high_specular womanface_a womanface_3_aged woman_normalmap none woman_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+womanface_a.LOD 263936 faceshader_simple womanface_a womanface_3_aged none none none 1.0
+0.0 0.0 0.0
+womanface_b 1824 faceshader_high_specular womanface_b womanface_2_aged woman_normalmap none woman_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+womanface_b.LOD 263936 faceshader_simple womanface_b womanface_2_aged none none none 1.0
+0.0 0.0 0.0
+womanface_young 1824 faceshader_high_specular womanface_young womanface_1_aged woman_normalmap none woman_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+womanface_young.LOD 263936 faceshader_simple womanface_young womanface_1_aged none none none 1.0
+0.0 0.0 0.0
+womanface_brown 1824 faceshader_high_specular womanface_brown womanface_4_aged woman_normalmap none woman_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+womanface_brown.LOD 263936 faceshader_simple womanface_brown womanface_4_aged none none none 1.0
+0.0 0.0 0.0
+womanface_african 1824 faceshader_high_specular womanface_african womanface_african_aged woman_normalmap none woman_old_normalmap 15.000000
+0.360000 0.330000 0.270000
+womanface_african.LOD 263936 faceshader_simple womanface_african womanface_african_aged none none none 1.0
+0.0 0.0 0.0
+
+ end

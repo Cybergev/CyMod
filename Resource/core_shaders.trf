@@ -1,0 +1,924 @@
+shader 139
+
+def_shader 536870912 0 notexture
+ 1 
+def_shader_ffp 
+ 1 
+-1 2 1 0
+
+def_shader_ffp 0 0 none
+ 0 
+
+ 1 
+-1 2 1 0
+
+font_uniform_color 536871040 0 font_uniform_color
+ 1 
+font_uniform_color_ffp 
+ 1 
+0 162 1412 0
+
+font_uniform_color_ffp 128 0 none
+ 0 
+
+ 1 
+0 1284 1412 0
+
+font_outline 536871040 0 font_outline
+ 1 
+font_uniform_color_ffp 
+ 1 
+0 162 1412 0
+
+font_background 536871040 0 font_background
+ 1 
+font_background_ffp 
+ 1 
+0 1415 1 0
+
+font_background_ffp 128 0 none
+ 0 
+
+ 1 
+0 1415 1 0
+
+plain_alpha 536871040 0 notexture
+ 1 
+plain_alpha_ffp 
+ 1 
+-1 1284 1284 0
+
+plain_alpha_ffp 128 0 none
+ 0 
+
+ 1 
+-1 1284 1284 0
+
+render_character_shadow 536871040 0 render_character_shadow
+ 1 
+render_character_shadow_ffp 
+ 1 
+0 162 388 0
+
+render_character_shadow_with_skin 2684354688 0 render_character_shadow_with_skin
+ 1 
+render_character_shadow_ffp 
+ 1 
+0 162 388 0
+
+render_character_shadow_ffp 128 0 none
+ 0 
+
+ 1 
+0 162 388 0
+
+shadow_shader 536871040 0 character_shadow
+ 1 
+shadow_shader_ffp 
+ 1 
+0 420 388 0
+
+shadow_shader_new 536871040 0 character_shadow_new
+ 1 
+shadow_shader_ffp 
+ 1 
+0 420 388 0
+
+shadow_shader_ffp 128 0 none
+ 0 
+
+ 1 
+0 420 388 0
+
+render_to_depth_shader 536871040 0 renderdepth
+ 1 
+shadow_shader_ffp 
+ 1 
+0 162 388 0
+
+render_to_depth_skin_shader 2684354688 0 renderdepthwithskin
+ 1 
+shadow_shader_ffp 
+ 1 
+0 162 388 0
+
+render_to_light_depth_shader 536871040 0 renderdepth_light
+ 1 
+shadow_shader_ffp 
+ 1 
+0 162 388 0
+
+render_to_light_depth_skin_shader 2684354688 0 renderdepthwithskin_light
+ 1 
+shadow_shader_ffp 
+ 1 
+0 162 388 0
+
+clear_floating_point_buffer_shader 536870912 0 clear_floating_point_buffer
+ 0 
+
+ 0 
+
+vertex_color_shader 536871040 0 notexture
+ 1 
+vertex_color_shader_ffp 
+ 2 
+-1 2 2 0
+-1 164 164 0
+
+vertex_color_shader_ffp 128 0 none
+ 0 
+
+ 2 
+-1 2 2 0
+-1 164 164 0
+
+dot3 1610612864 0 dot3
+ 1 
+tex_mul_color_ffp 
+ 3 
+2 1048 1 0
+-1 1287 1 0
+0 1028 1 0
+
+dot3_alpha 1610612864 0 dot3
+ 1 
+tex_mul_color_alpha_ffp 
+ 3 
+2 1048 2 0
+-1 1287 2 0
+0 1028 2 0
+
+dot3_alpha_biased 1610645632 0 dot3
+ 1 
+tex_mul_color_alpha_ffp 
+ 3 
+2 1048 2 0
+-1 1287 2 0
+0 1028 2 0
+
+dot3_alpha_multitex 1610612864 0 dot3_multitex
+ 1 
+tex_mul_color_alpha_ffp 
+ 3 
+2 1048 2 0
+-1 1287 2 0
+0 1028 2 0
+
+bump_static 1610612864 0 bumpmap
+ 1 
+tex_mul_color_static 
+ 2 
+2 1048 2 0
+0 1028 1 0
+
+bumpmap_interior 1610612736 8192 bumpmap_interior
+ 1 
+tex_mul_color 
+ 2 
+2 1048 2 0
+0 1028 1 0
+
+bumpmap_interior_new 1610612736 8192 bumpmap_interior_new
+ 1 
+tex_mul_color 
+ 2 
+2 1048 2 0
+0 1028 1 0
+
+bumpmap_interior_new_specmap 1610612736 8192 bumpmap_interior_new_specmap
+ 1 
+tex_mul_color 
+ 2 
+2 1048 2 0
+0 1028 1 0
+
+no_shade 536871040 0 no_shading
+ 1 
+tex_mul_color_mul_factor_alpha_static_ffp 
+ 1 
+0 132 1 0
+
+no_shade_no_alpha 536871040 0 no_shading_no_alpha
+ 1 
+tex_mul_color_mul_factor_static_ffp 
+ 1 
+0 132 1 0
+
+simple_shader 536871040 0 simple_shading
+ 1 
+tex_mul_color_mul_factor_alpha_static_ffp 
+ 1 
+0 132 1 0
+
+simple_shader_no_mip 536871040 0 simple_shading_no_filter
+ 1 
+tex_mul_color_mul_factor_alpha_static_ffp 
+ 1 
+0 132 1 0
+
+diffuse_no_shadow 536871040 0 diffuse_no_shadow
+ 1 
+tex_mul_color_static_ffp 
+ 1 
+0 132 1 0
+
+tex_mul_color 536870912 0 diffuse
+ 1 
+tex_mul_color_ffp 
+ 1 
+0 132 1 0
+
+tex_mul_color_ffp 0 0 none
+ 0 
+
+ 1 
+0 132 1 0
+
+tex_mul_color_static 536871040 0 diffuse
+ 1 
+tex_mul_color_static_ffp 
+ 1 
+0 132 1 0
+
+tex_mul_color_static_ffp 128 0 none
+ 0 
+
+ 1 
+0 132 1 0
+
+tex_mul_color_alpha 536871040 0 diffuse
+ 1 
+tex_mul_color_alpha_ffp 
+ 1 
+0 132 132 0
+
+tex_mul_color_alpha_ffp 128 0 none
+ 0 
+
+ 1 
+0 132 132 0
+
+tex_mul_factor 536870912 0 diffuse
+ 1 
+tex_mul_factor_ffp 
+ 1 
+0 1412 1 0
+
+tex_mul_factor_ffp 0 0 none
+ 0 
+
+ 1 
+0 1412 1 0
+
+tex_mul_factor_alpha 536871040 0 diffuse
+ 1 
+tex_mul_factor_alpha_ffp 
+ 1 
+0 1412 1412 0
+
+tex_mul_factor_alpha_ffp 128 0 none
+ 0 
+
+ 1 
+0 1412 1412 0
+
+tex_mul_color_mul_factor 536870912 0 diffuse
+ 1 
+tex_mul_color_mul_factor_ffp 
+ 2 
+0 132 1 0
+-1 164 1 0
+
+tex_mul_color_mul_factor_ffp 0 0 none
+ 0 
+
+ 2 
+0 132 1 0
+-1 164 1 0
+
+tex_mul_color_mul_factor_alpha 536870912 0 diffuse
+ 1 
+tex_mul_color_mul_factor_alpha_ffp 
+ 2 
+0 132 132 0
+-1 164 164 0
+
+tex_mul_color_mul_factor_alpha_ffp 0 0 none
+ 0 
+
+ 2 
+0 132 132 0
+-1 164 164 0
+
+tex_mul_color_mul_factor_alpha_static 536871040 0 diffuse
+ 1 
+tex_mul_color_mul_factor_alpha_static_ffp 
+ 2 
+0 132 132 0
+-1 164 164 0
+
+tex_mul_color_mul_factor_alpha_static_ffp 128 0 none
+ 0 
+
+ 2 
+0 132 132 0
+-1 164 164 0
+
+tex_mul_color_mul_factor_static_ffp 128 0 none
+ 0 
+
+ 2 
+0 132 1 0
+-1 164 1 0
+
+map_shader 536871040 0 diffuse_map
+ 1 
+map_shader_ffp 
+ 2 
+0 132 2 0
+-1 164 1 0
+
+map_shader_bump 1610612864 8192 diffuse_map_bump
+ 1 
+map_shader 
+ 3 
+0 132 2 0
+2 132 162 0
+-1 164 1 0
+
+map_mountain_shader 536871040 0 map_mountain
+ 1 
+map_shader_ffp 
+ 2 
+0 132 2 0
+-1 164 1 0
+
+map_mountain_shader_bump 1610612864 8192 map_mountain_bump
+ 1 
+map_mountain_shader 
+ 3 
+0 132 2 0
+2 132 162 0
+-1 164 1 0
+
+map_bump_shader 1610612864 0 bumpmap
+ 1 
+map_shader_ffp 
+ 2 
+2 1048 2 0
+0 1028 1 0
+
+map_shader_ffp 128 0 none
+ 0 
+
+ 2 
+0 132 2 0
+-1 164 2 0
+
+map_ocean_shader_high 536871296 16384 map_water_high
+ 1 
+map_ocean_shader 
+ 1 
+0 1412 1 256
+
+map_ocean_shader 536871040 0 map_water
+ 1 
+map_ocean_shader_ffp 
+ 1 
+0 1412 1 256
+
+sea_shader_ffp 0 0 simple_ocean
+ 0 
+
+ 1 
+0 1412 1 256
+
+sea_shader 536871168 0 simple_ocean
+ 1 
+sea_shader_ffp 
+ 1 
+0 1412 1 256
+
+map_ocean_shader_ffp 128 0 none
+ 0 
+
+ 2 
+0 132 132 256
+-1 164 2 0
+
+flora_shader_Instanced 536916096 0 flora_Instanced
+ 1 
+flora_shader 
+ 1 
+0 132 1412 0
+
+flora_shader 536907904 0 flora
+ 1 
+flora_shader_ffp 
+ 1 
+0 132 1412 0
+
+flora_shader_nobias 536875136 0 flora
+ 1 
+flora_shader_ffp 
+ 1 
+0 132 1412 0
+
+flora_shader_nobias_nopreshade 536871040 0 flora
+ 1 
+flora_shader_ffp 
+ 1 
+0 132 1412 0
+
+flora_shader_ffp 128 0 none
+ 0 
+
+ 2 
+0 132 132 0
+-1 164 164 0
+
+skybox_shader 536871040 0 skybox
+ 1 
+skybox_shader_ffp 
+ 1 
+0 132 1 0
+
+skybox_shader_new 536871072 0 skybox_new
+ 1 
+skybox_shader_ffp 
+ 3 
+0 132 1 0
+1 132 1 0
+3 132 1 0
+
+skybox_shader_ffp 128 0 none
+ 0 
+
+ 2 
+0 132 1 0
+-1 164 1 0
+
+grass_shader 536875136 0 grass
+ 1 
+grass_shader_ffp 
+ 2 
+0 132 132 0
+-1 132 132 320
+
+grass_no_shadow_shader 536875136 0 grass_no_shadow
+ 1 
+grass_shader_ffp 
+ 2 
+0 132 132 0
+-1 132 132 320
+
+grass_shader_ffp 128 0 none
+ 0 
+
+ 2 
+0 132 132 0
+1 132 132 320
+
+skin_shader 536870912 0 diffuse
+ 1 
+skin_shader_ffp 
+ 2 
+0 132 2 0
+-1 164 164 0
+
+skin_shader_ffp 0 0 none
+ 0 
+
+ 2 
+0 132 2 0
+-1 164 164 0
+
+skeleton_shader 2684354560 0 skin_diffuse
+ 1 
+agent_shader_ffp 
+ 2 
+0 132 132 0
+-1 164 164 0
+
+agent_shader_Instanced 536879104 0 diffuse_dynamic_Instanced
+ 1 
+agent_shader 
+ 2 
+0 132 132 0
+-1 164 164 0
+
+agent_shader 536870912 0 diffuse_dynamic
+ 1 
+agent_shader_ffp 
+ 2 
+0 132 132 0
+-1 164 164 0
+
+agent_shader_ffp 0 0 none
+ 0 
+
+ 2 
+0 132 132 0
+-1 164 164 0
+
+shiny_shader 536870912 0 envmap_metal
+ 1 
+shiny_shader_ffp 
+ 2 
+0 132 132 0
+3 136 164 16
+
+shiny_shader_ffp 0 0 none
+ 0 
+
+ 2 
+0 132 132 0
+3 136 164 16
+
+faceshader_high_specular 1610743840 16384 faceshader_high_specular
+ 1 
+faceshader_high 
+ 4 
+0 132 162 0
+1 132 162 0
+2 132 162 0
+4 132 162 0
+
+faceshader_high 1610743840 8192 face_shader_high
+ 1 
+faceshader_simple 
+ 4 
+0 132 162 0
+1 132 162 0
+2 132 162 0
+4 132 162 0
+
+faceshader_simple 537001984 0 faceshader_simple
+ 1 
+faceshader 
+ 2 
+0 132 162 0
+1 132 162 0
+
+faceshader 537001984 0 face_shader
+ 1 
+faceshader_ps 
+ 2 
+0 132 162 0
+1 132 162 0
+
+faceshader_ps 268435456 4096 faceshader.pp
+ 1 
+faceshader_ffp 
+ 3 
+0 130 2 0
+1 144 2 0
+-1 36 162 0
+
+faceshader_ffp 0 0 none
+ 0 
+
+ 1 
+0 132 162 0
+
+hair_shader 537001984 0 hair_shader
+ 1 
+hair_shader_ffp 
+ 2 
+0 132 132 0
+1 132 162 0
+
+hair_shader_ffp 0 0 none
+ 0 
+
+ 2 
+0 132 132 0
+-1 164 164 0
+
+hair_shader_aniso 1610743808 16384 hair_shader_aniso
+ 1 
+hair_shader 
+ 2 
+0 132 132 0
+1 132 162 0
+
+water_shader 1610612992 0 watermap
+ 1 
+water_shader_ffp 
+ 1 
+0 132 2 256
+
+water_shader_high 1610612992 16384 watermap_high
+ 1 
+water_shader 
+ 1 
+0 132 2 256
+
+water_shader_mud 1610612992 0 watermap_mud
+ 1 
+water_shader_ffp 
+ 1 
+0 132 2 256
+
+water_shader_mud_high 1610612992 16384 watermap_mud_high
+ 1 
+water_shader_mud 
+ 1 
+0 132 2 256
+
+water_shader_for_objects 536870912 0 watermap_for_objects
+ 1 
+def_shader 
+ 1 
+0 132 2 256
+
+water_shader_ffp 128 0 none
+ 0 
+
+ 1 
+0 132 2 256
+
+iron_shader_skin 2684354592 0 standart_skin_nobump_nospecmap
+ 1 
+iron_shader_ffp 
+ 1 
+0 132 2 0
+
+iron_shader_Instanced 536879136 0 standart_noskin_nobump_nospecmap_Instanced
+ 1 
+iron_shader 
+ 1 
+0 132 2 0
+
+iron_shader 536870944 0 standart_noskin_nobump_nospecmap
+ 1 
+iron_shader_ps 
+ 1 
+0 132 2 0
+
+iron_shader_ps 268435488 4096 myshader.pp
+ 1 
+iron_shader_ffp 
+ 1 
+0 132 2 0
+
+iron_shader_ffp 0 0 none
+ 0 
+
+ 1 
+0 132 2 0
+
+specular_shader_skin 2684354592 0 standart_skin_nobump_specmap
+ 1 
+specular_shader_ffp 
+ 2 
+0 132 2 0
+4 132 2 0
+
+specular_shader 536870944 0 standart_noskin_nobump_specmap
+ 1 
+specular_shader_ffp 
+ 2 
+0 132 2 0
+4 132 2 0
+
+specular_shader_Instanced 536879136 0 standart_noskin_nobump_specmap_Instanced
+ 1 
+specular_shader 
+ 2 
+0 132 2 0
+4 132 2 0
+
+specular_shader_ffp 0 0 none
+ 0 
+
+ 2 
+0 132 132 0
+-1 164 164 0
+
+envmap_shader 536870944 0 envmap_specular_diffuse
+ 1 
+agent_shader_ffp 
+ 3 
+0 132 2 0
+4 132 2 0
+3 132 2 0
+
+envmap_shader_Instanced 536879136 0 envmap_specular_diffuse_Instanced
+ 1 
+envmap_shader 
+ 3 
+0 132 2 0
+4 132 2 0
+3 132 2 0
+
+specular_shader_bump_Instanced 1610620960 0 standart_noskin_bump_specmap_Instanced
+ 1 
+specular_shader_bump 
+ 3 
+0 132 2 0
+2 132 2 0
+4 132 2 0
+
+specular_shader_bump 1610612768 8192 standart_noskin_bump_specmap
+ 1 
+specular_shader 
+ 3 
+0 132 2 0
+2 132 2 0
+4 132 2 0
+
+nospecular_shader_bump_Instanced 1610620960 8192 standart_noskin_bump_nospecmap_Instanced
+ 1 
+agent_shader 
+ 2 
+0 132 2 0
+2 132 2 0
+
+nospecular_shader_bump 1610612768 8192 standart_noskin_bump_nospecmap
+ 1 
+agent_shader 
+ 2 
+0 132 2 0
+2 132 2 0
+
+specular_shader_skin_bump 3758096416 8192 standart_skin_bump_specmap
+ 1 
+specular_shader_skin 
+ 3 
+0 132 2 0
+2 132 2 0
+4 132 2 0
+
+nospecular_shader_skin_bump 3758096416 8192 standart_skin_bump_nospecmap
+ 1 
+skeleton_shader 
+ 2 
+0 132 2 0
+2 132 2 0
+
+specular_shader_skin_bump_high 3758096416 16384 standart_skin_bump_specmap_high
+ 1 
+specular_shader_skin_bump 
+ 3 
+0 132 2 0
+2 132 2 0
+4 132 2 0
+
+nospecular_shader_skin_bump_high 3758096416 16384 standart_skin_bump_nospecmap_high
+ 1 
+nospecular_shader_skin_bump 
+ 3 
+0 132 2 0
+2 132 2 0
+4 132 2 0
+
+specular_shader_noskin_bump_high 1610612768 16384 standart_noskin_bump_specmap_high
+ 1 
+specular_shader_bump_Instanced 
+ 0 
+
+nospecular_shader_noskin_bump_high 1610612768 16384 standart_noskin_bump_nospecmap_high
+ 1 
+nospecular_shader_bump_Instanced 
+ 0 
+
+specular_shader_noskin_bump_high_Instanced 1610620960 16384 standart_noskin_bump_specmap_high_Instanced
+ 1 
+specular_shader_noskin_bump_high 
+ 0 
+
+nospecular_shader_noskin_bump_high_Instanced 1610620960 16384 standart_noskin_bump_nospecmap_high_Instanced
+ 1 
+nospecular_shader_noskin_bump_high 
+ 0 
+
+standart_shader_nobump_nospec 536870912 0 standart_noskin_nobump_nospec
+ 1 
+specular_shader 
+ 1 
+0 132 2 0
+
+standart_shader_skin_nobump_nospec 2684354560 0 standart_skin_nobump_nospec
+ 1 
+specular_shader_skin 
+ 1 
+0 132 2 0
+
+standart_shader_bump_nospec 1610612736 8192 standart_noskin_bump_nospec
+ 1 
+standart_shader_nobump_nospec 
+ 2 
+0 132 2 0
+2 132 2 0
+
+standart_shader_skin_bump_nospec 3758096384 8192 standart_skin_bump_nospec
+ 1 
+standart_shader_skin_nobump_nospec 
+ 2 
+0 132 2 0
+2 132 2 0
+
+standart_shader_bump_nospec_high_Instanced 1610620928 16384 standart_noskin_bump_nospec_high_Instanced
+ 1 
+standart_shader_bump_nospec_high 
+ 2 
+0 132 2 0
+2 132 2 0
+
+standart_shader_bump_nospec_high 1610612736 16384 standart_noskin_bump_nospec_high
+ 1 
+standart_shader_bump_nospec 
+ 2 
+0 132 2 0
+2 132 2 0
+
+standart_shader_skin_bump_nospec_high 3758096384 16384 standart_skin_bump_nospec_high
+ 1 
+standart_shader_skin_bump_nospec 
+ 2 
+0 132 2 0
+2 132 2 0
+
+standart_shader_bump_nospec_noterraincolor 1610612736 0 standart_noskin_bump_nospec_noterraincolor
+ 1 
+standart_shader_nobump_nospec 
+ 2 
+0 132 2 0
+2 132 2 0
+
+standart_shader_bump_nospec_high_noterraincolor 1610612736 16384 standart_noskin_bump_nospec_high_noterraincolor
+ 1 
+standart_shader_bump_nospec_noterraincolor 
+ 2 
+0 132 2 0
+2 132 2 0
+
+standart_shader_bump_nospec_high_noterraincolor_Instanced 1610620928 16384 standart_noskin_bump_nospec_high_noterraincolor_Instanced
+ 1 
+standart_shader_bump_nospec_high_noterraincolor 
+ 2 
+0 132 2 0
+2 132 2 0
+
+specular_shader_skin_bump_high_aniso 3758096416 16384 standart_skin_bump_specmap_high_aniso
+ 1 
+specular_shader_skin_bump_high 
+ 3 
+0 132 2 0
+2 132 2 0
+4 132 2 0
+
+nospecular_shader_skin_bump_high_aniso 3758096416 16384 standart_skin_bump_nospecmap_high_aniso
+ 1 
+nospecular_shader_skin_bump_high 
+ 3 
+0 132 2 0
+2 132 2 0
+4 132 2 0
+
+soft_sunflare 536871040 0 soft_sunflare
+ 1 
+no_shade 
+ 1 
+0 132 1 0
+
+soft_particle_add 536871040 0 soft_particle_add
+ 1 
+no_shade 
+ 1 
+0 132 1 0
+
+soft_particle_modulate 536871040 0 soft_particle_modulate
+ 1 
+simple_shader 
+ 1 
+0 132 1 0
+
+tree_billboards_ffp 128 0 none
+ 0 
+
+ 2 
+0 132 132 0
+-1 164 164 0
+
+tree_billboards_flora 536870912 0 tree_billboards_flora
+ 1 
+tree_billboards_ffp 
+ 1 
+0 132 1 0
+
+tree_billboards_bark 1610612736 0 tree_billboards_dot3_alpha
+ 1 
+tree_billboards_ffp 
+ 1 
+0 132 1 0
+
+render_to_depth_biased_shader 536871040 0 renderdepth_biased
+ 1 
+render_to_depth_shader 
+ 1 
+0 162 388 0
+
+ end

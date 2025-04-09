@@ -1,0 +1,149 @@
+material 73
+default 0 def_shader none none none none none 1.000000
+0.000000 0.000000 0.000000
+ui_font 100663561 font_uniform_color font none none none none 1.0
+0.0 0.0 0.0
+ui_font_add 100663817 font_uniform_color font none none none none 1.0
+0.0 0.0 0.0
+ui_font_background 50332425 font_background font none none none none 1.0
+0.0 0.0 0.0
+ui_font_outline 50331912 font_outline font none none none none 1.0
+0.0 0.0 0.0
+ui_overlay_font 100663561 font_uniform_color font none none none none 1.0
+0.0 0.0 0.0
+matte 50331920 plain_alpha none none none none none 1.0
+0.0 0.0 0.0
+shadow_default 262408 shadow_shader shadow_default none none none none 1.0
+0.0 0.0 0.0
+render_to_shadow 281 shadow_shader none none none none none 1.0
+0.0 0.0 0.0
+vertex_color_mat 50332161 vertex_color_shader none none none none none 1.0
+0.0 0.0 0.0
+vertex_color_add_mat 50332169 vertex_color_shader none none none none none 1.0
+0.0 0.0 0.0
+vertex_color_blend_mat 33554688 vertex_color_shader none none none none none 1.0
+0.0 0.0 0.0
+clear_floating_point_buffer 0 clear_floating_point_buffer_shader none none none none none 1.0
+0.0 0.0 0.0
+ui_gadgets 16777473 simple_shader ui_gadgets none none none none 1.0
+0.0 0.0 0.0
+ui_gadgets_add 33554945 simple_shader ui_gadgets none none none none 1.0
+0.0 0.0 0.0
+ui_gadgets_nodepth 117444881 simple_shader ui_gadgets none none none none 1.0
+0.0 0.0 0.0
+ui_gadgets_add_nodepth 117445137 simple_shader ui_gadgets none none none none 1.0
+0.0 0.0 0.0
+ui_overlay_add 33554945 simple_shader ui none none none none 1.0
+0.0 0.0 0.0
+ui 16777473 simple_shader ui none none none none 1.0
+0.0 0.0 0.0
+ui_cursor 16777473 simple_shader cursor none none none none 1.0
+0.0 0.0 0.0
+chr_win_shadow 218104065 simple_shader chr_win_shadow none none none none 1.0
+0.0 0.0 0.0
+button_drop 16777473 simple_shader button_drop none none none none 1.0
+0.0 0.0 0.0
+user_interface_b 16781569 simple_shader user_interface_b none none none none 1.0
+0.0 0.0 0.0
+ui_new 33558785 simple_shader interface none none none none 1.0
+0.0 0.0 0.0
+ui_bg 1 simple_shader interface none none none none 1.0
+0.0 0.0 0.0
+ui_over 50331905 simple_shader interface none none none none 1.0
+0.0 0.0 0.0
+ui_item_shadow 218104577 plain_alpha none none none none none 1.0
+0.0 0.0 0.0
+background 201326593 simple_shader bg2 none none none none 1.0
+0.0 0.0 0.0
+note_window 201326593 simple_shader note_window none none none none 1.0
+0.0 0.0 0.0
+bg2 201326593 simple_shader bg2 none none none none 1.0
+0.0 0.0 0.0
+quests_window 201326593 simple_shader quests_window none none none none 1.0
+0.0 0.0 0.0
+inventory_window 201326593 simple_shader inventory_window none none none none 1.0
+0.0 0.0 0.0
+party_window 201326593 simple_shader party_window none none none none 1.0
+0.0 0.0 0.0
+dialogue_window 201326593 simple_shader dialogue_window none none none none 1.0
+0.0 0.0 0.0
+dialogue_window_shaded 1 diffuse_no_shadow dialogue_window none none none none 1.0
+0.0 0.0 0.0
+compass 117440529 diffuse_no_shadow dialogue_window none none none none 1.0
+0.0 0.0 0.0
+character_window 201326593 simple_shader character_window none none none none 1.0
+0.0 0.0 0.0
+face_gen_window 201334785 simple_shader face_gen_window none none none none 1.0
+0.0 0.0 0.0
+warrider_logo 16777473 simple_shader warrider_logo none none none none 1.0
+0.0 0.0 0.0
+pic_mb_warrior_1 768 simple_shader pic_mb_warrior_1 none none none none 1.0
+0.0 0.0 0.0
+pic_mb_warrior_2 768 simple_shader pic_mb_warrior_2 none none none none 1.0
+0.0 0.0 0.0
+pic_mb_warrior_3 768 simple_shader pic_mb_warrior_3 none none none none 1.0
+0.0 0.0 0.0
+ui_quick_battle_a 1 simple_shader ui_quick_battle none none none none 1.0
+0.0 0.0 0.0
+pic_horse_archers 768 simple_shader pic_horse_archers none none none none 1.0
+0.0 0.0 0.0
+pic_mercenary 768 simple_shader pic_mercenary none none none none 1.0
+0.0 0.0 0.0
+portrait_blend_out 67109632 no_shade portrait_blend_out none none none none 1.0
+0.0 0.0 0.0
+troop_label_banner 67109128 no_shade troop_label_banner none none none none 1.0
+0.0 0.0 0.0
+troop_label_banner_hl 117441032 no_shade troop_label_banner_hl none none none none 1.0
+0.0 0.0 0.0
+mp_ui_edge 50331912 no_shade mp_ui_edge none none none none 1.0
+0.0 0.0 0.0
+icon_mp_fight 50331904 no_shade mp_icon_fight none none none none 1.0
+0.0 0.0 0.0
+mp_flags_rbw 50331904 no_shade mp_ctf_flags none none none none 1.0
+0.0 0.0 0.0
+mp_ui_inventory 50331912 no_shade mp_ui_inventory none none none none 1.0
+0.0 0.0 0.0
+lock_icon 83886344 no_shade mp_ui_inventory none none none none 1.0
+0.0 0.0 0.0
+mp_ui_host_main 201326848 no_shade mp_ui_host none none none none 1.0
+0.0 0.0 0.0
+mp_ui_host_maps_a 184549376 no_shade mp_ui_maps_a none none none none 1.0
+0.0 0.0 0.0
+mp_ui_host_maps_b 184549376 no_shade mp_ui_maps_b none none none none 1.0
+0.0 0.0 0.0
+mp_ui_host_maps_c 184549376 no_shade mp_ui_maps_c none none none none 1.0
+0.0 0.0 0.0
+mp_ui_host_maps_d 184549376 no_shade mp_ui_maps_d none none none none 1.0
+0.0 0.0 0.0
+mp_ui_host_maps_e 184549376 no_shade mp_ui_maps_e none none none none 1.0
+0.0 0.0 0.0
+mp_ui_profile 184549376 no_shade mp_ui_profile none none none none 1.0
+0.0 0.0 0.0
+mp_ui_bg 184549376 no_shade mp_ui_bg none none none none 1.0
+0.0 0.0 0.0
+main_menu_nord 201326593 simple_shader main_menu_nord none none none none 1.0
+0.0 0.0 0.0
+escape_menu 201326593 simple_shader escape_menu none none none none 1.0
+0.0 0.0 0.0
+quit_adv 201326593 simple_shader quit_adv none none none none 1.0
+0.0 0.0 0.0
+quit_adv_b 201326593 simple_shader quit_adv_b none none none none 1.0
+0.0 0.0 0.0
+quit_adv_c 201326593 simple_shader quit_adv_c none none none none 1.0
+0.0 0.0 0.0
+load_menu_back_a 201326593 simple_shader loadscreen none none none none 1.0
+0.0 0.0 0.0
+load_screen_2 201326593 simple_shader loadscreen2 none none none none 1.0
+0.0 0.0 0.0
+cb_ui_main 184549376 no_shade cb_ui_main none none none none 1.0
+0.0 0.0 0.0
+cb_ui_comp 50331905 simple_shader cb_ui_comp none none none none 1.0
+0.0 0.0 0.0
+cb_ui_maps_a 50331905 simple_shader cb_ui_maps_a none none none none 1.0
+0.0 0.0 0.0
+mouse_icons_a 50331905 simple_shader mouse_icon none none none none 1.0
+0.0 0.0 0.0
+ui_options 234881025 simple_shader ui_options none none none none 1.0
+0.0 0.0 0.0
+
+ end
