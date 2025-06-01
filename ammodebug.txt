@@ -1210,7 +1210,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_arrows Arrows Arrows 3  arrow 0 arrow 2305843009213693952 quiver 3458764513820540928  65541 2147483648 72 4398047027054 3.000000 160 0 0 0 0 0 0 0 95 100 257 0
+Line:  itm_arrows Arrows Arrows 3  arrow 0  arrow 2305843009213693952  quiver 3458764513820540928  65541 2147483648 72 4398047027054 3.000000 160 0 0 0 0 0 0 0 95 100 258 0
 LastWordField: 15
 FlagField: 17
 FlagDecimal: 0
@@ -1218,7 +1218,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_khergit_arrows Khergit_Arrows Khergit_Arrows 3  arrow_b 0 Khergit_Arrows 2305843009213693952 quiver_b 3458764513820540928  65541 2147483648 410 4398047027054 3.500000 30 0 0 0 0 0 0 0 95 100 259 0
+Line:  itm_khergit_arrows Khergit_Arrows Khergit_Arrows 3  arrow_b 0  Khergit_Arrows 2305843009213693952  quiver_b 3458764513820540928  65541 2147483648 410 4398047027054 3.500000 30 0 0 0 0 0 0 0 95 100 261 0
 LastWordField: 15
 FlagField: 17
 FlagDecimal: 0
@@ -1226,7 +1226,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0 barbed_arrow 2305843009213693952 quiver_d 3458764513820540928  65541 2147483648 124 4398047027054 3.000000 70 0 0 0 0 0 0 0 95 100 258 0
+Line:  itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  barbed_arrow 2305843009213693952  quiver_d 3458764513820540928  65541 2147483648 124 4398047027054 3.000000 70 0 0 0 0 0 0 0 95 100 259 0
 LastWordField: 15
 FlagField: 17
 FlagDecimal: 0
@@ -1234,7 +1234,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  piercing_arrow 0 piercing_arrow 2305843009213693952 quiver_c 3458764513820540928  65541 2147483648 350 4398047027054 3.000000 50 0 0 0 0 0 0 0 91 100 259 0
+Line:  itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  piercing_arrow 0  piercing_arrow 2305843009213693952  quiver_c 3458764513820540928  65541 2147483648 350 4398047027054 3.000000 50 0 0 0 0 0 0 0 91 100 260 0
 LastWordField: 15
 FlagField: 17
 FlagDecimal: 0
@@ -1242,7 +1242,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_bolts Bolts Bolts 4  bolt 0 bolt 2305843009213693952 bolt_bag 3458764513820540928 bolt_bag_b 3458768911867052032  16875526 1879048192 64 4398047027054 2.250000 90 0 0 0 0 0 0 0 63 100 257 0
+Line:  itm_bolts Bolts Bolts 4  bolt 0  bolt 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  16875526 1879048192 64 4398047027054 2.250000 90 0 0 0 0 0 0 0 63 100 259 0
 LastWordField: 17
 FlagField: 19
 FlagDecimal: 0
@@ -1250,7 +1250,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_steel_bolts Steel_Bolts Steel_Bolts 3  bolt 0 bolt 2305843009213693952 bolt_bag_c 3458764513820540928  16842758 1879048192 210 4398047027054 2.500000 20 0 0 0 0 0 0 0 63 100 258 0
+Line:  itm_steel_bolts Steel_Bolts Steel_Bolts 3  bolt 0  bolt 2305843009213693952  bolt_bag_c 3458764513820540928  16842758 1879048192 210 4398047027054 2.500000 20 0 0 0 0 0 0 0 63 100 261 0
 LastWordField: 15
 FlagField: 17
 FlagDecimal: 0
@@ -3463,7 +3463,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_hafted_blade_b Hafted_Blade Hafted_Blade 1  khergit_pike_b 0  6619139 8725730477215232 385 8202 2.000000 100 0 0 0 6 37888 100 0 130 0 256 35
+Line:  itm_hafted_blade_b Hafted_Blade Hafted_Blade 1  khergit_pike_b 0  3227844611 8725730678542080 400 8202 2.500000 100 0 0 0 6 37888 100 0 130 0 20 35
 LastWordField: 11
 FlagField: 13
 FlagDecimal: 0
@@ -3471,7 +3471,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_hafted_blade_a Hafted_Blade Hafted_Blade 1  khergit_pike_a 0  3362062339 8725730678542080 350 8202 2.500000 100 0 0 0 6 39936 95 0 140 0 281 30
+Line:  itm_hafted_blade_a Hafted_Blade Hafted_Blade 1  khergit_pike_a 0  3362062339 8725730678542080 400 8202 2.500000 100 0 0 0 6 39936 95 0 140 0 281 25
 LastWordField: 11
 FlagField: 13
 FlagDecimal: 0
@@ -3831,7 +3831,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_shortened_spear Shortened_Spear Shortened_Spear 1  spear_g_1-9m 0  282534936579 4222131026002176 53 8202 2.000000 100 0 0 0 4 19456 102 0 120 0 281 0
+Line:  itm_shortened_spear Shortened_Spear Shortened_Spear 1  spear_g_1-9m 0  282534936579 4222131026002176 53 8202 2.000000 100 0 0 0 4 19456 100 0 120 0 282 0
 LastWordField: 11
 FlagField: 13
 FlagDecimal: 0
@@ -3839,7 +3839,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_spear Spear Spear 1  spear_h_2-15m 0  282534936579 4222131026002176 85 8202 2.250000 100 0 0 0 5 20480 98 0 135 0 282 0
+Line:  itm_spear Spear Spear 1  spear_h_2-15m 0  282534936579 4222131026002176 85 8202 2.250000 100 0 0 0 5 20480 100 0 135 0 284 0
 LastWordField: 11
 FlagField: 13
 FlagDecimal: 0
@@ -3855,7 +3855,7 @@ FlagBinary: 0
 FlagBinaryLSB: 0
 TypeFlag: 0
 ItemBaseType: 
-Line:  itm_war_spear War_Spear War_Spear 1  spear_i_2-3m 0  282534936579 4222131026002176 140 8202 2.500000 100 0 0 0 5 20480 95 0 150 0 283 512
+Line:  itm_war_spear War_Spear War_Spear 1  spear_i_2-3m 0  282534936579 4222131026002176 140 8202 2.500000 100 0 0 0 5 20480 95 0 150 0 286 512
 LastWordField: 11
 FlagField: 13
 FlagDecimal: 0
