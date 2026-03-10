@@ -120,11 +120,11 @@ itemsfile version 3
  0
 0
 
- itm_practice_javelin Practice_Javelins Practice_Javelins 2  javelin 0 javelins_quiver_new 3458764513820540928  275418972170 263919298150400 0 4398046781448 5.000000 100 0 0 0 0 0 91 28 75 50 539 0
+ itm_practice_javelin Practice_Javelins Practice_Javelins 2  javelin 0  javelins_quiver_new 3458764513820540928  275418972170 263919298150400 0 4398046781448 5.000000 100 0 0 0 0 0 91 28 75 50 286 0
  0
 0
 
- itm_practice_javelin_melee practice_javelin_melee practice_javelin_melee 1  javelin 0  138674178 4222124784877569 0 8202 1.000000 100 0 0 0 2 12288 91 0 75 0 526 512
+ itm_practice_javelin_melee practice_javelin_melee practice_javelin_melee 1  javelin 0  138674178 4222124784877569 0 8202 1.000000 100 0 0 0 2 12288 91 0 75 0 276 512
  0
 0
 
@@ -136,7 +136,7 @@ itemsfile version 3
  0
 0
 
- itm_practice_horse Practice_Horse Practice_Horse 1  saddle_horse 0  1 0 37 137189131520 0.000000 100 0 10 0 0 0 37 80 0 0 14 0
+ itm_practice_horse Practice_Horse Practice_Horse 1  saddle_horse 0  1 0 37 137189131520 0.000000 100 0 10 0 0 0 40 80 0 0 14 0
  0
 0
 
